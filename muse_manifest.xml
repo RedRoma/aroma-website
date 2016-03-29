@@ -1,10 +1,13 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.redroma.tech" resolutions="1x" timestamp="1459289159119">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.redroma.tech" resolutions="1x" timestamp="1459294189246">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4151605652" ref="index"/>
-    <file name="nomq_index.css" crc="27425941" ref="index"/>
+    <file name="index.css" crc="312202501" ref="index"/>
+    <file name="nomq_index.css" crc="4087659956" ref="index"/>
   </folder>
   <folder name="fonts">
+    <file name="ubuntu-v9-latin-regular.woff" crc="331052408"/>
+    <file name="ubuntu-v9-latin-regular.eot" crc="4228388598"/>
+    <file name="ubuntu-v9-latin-regular.svg" crc="4217034096"/>
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
     <file name="marcellus-sc-v4-latin-regular.eot" crc="4169106927"/>
     <file name="marcellus-sc-v4-latin-regular.svg" crc="178137573"/>
@@ -34,5 +37,5 @@
     <file name="screen 2255x349.png" crc="345021357" seo="true" ref="index"/>
     <file name="u18534.png" crc="308864502" ref="index"/>
   </folder>
-  <file name="index.html" crc="4143160510" seo="true" mt="1459289109488" redirect="true"/>
+  <file name="index.html" crc="4021539483" seo="true" mt="1459294106929" redirect="true"/>
 </manifest>

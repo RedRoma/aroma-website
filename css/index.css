@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #747994;
+	color: #000012;
+	background-color: #9BD505;
 }
 
 .js body
@@ -12,6 +12,15 @@
 .js body.initialized
 {
 	visibility: visible;
+}
+
+@font-face
+{
+	font-family: '__Ubuntu_5';
+	src: url('../fonts/ubuntu-v9-latin-regular.eot');
+	src: local('☺'), url('../fonts/ubuntu-v9-latin-regular.woff') format('woff'), url('../fonts/ubuntu-v9-latin-regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 
 @font-face
@@ -90,12 +99,10 @@
 
 #u740-4
 {
-	font-family: ubuntu, sans-serif;
 	position: relative;
 	background-color: transparent;
 	z-index: 11;
 	color: #FFFFFF;
-	font-weight: 500;
 }
 
 #u726
@@ -451,6 +458,8 @@ body
 		text-align: left;
 		font-size: 30px;
 		line-height: 36px;
+		font-family: '__Ubuntu_5';
+		font-weight: 400;
 		margin-right: -10000px;
 		margin-top: 186px;
 		left: 93px;
@@ -753,6 +762,8 @@ body
 		text-align: center;
 		font-size: 25px;
 		line-height: 30px;
+		font-family: ubuntu, sans-serif;
+		font-weight: 500;
 		margin-right: -10000px;
 		margin-top: 144px;
 		left: 74px;
@@ -1055,6 +1066,8 @@ body
 		text-align: center;
 		font-size: 24px;
 		line-height: 29px;
+		font-family: ubuntu, sans-serif;
+		font-weight: 500;
 		margin-top: 92px;
 		width: 81.46%;
 		margin-left: 9.28%;
@@ -1342,6 +1355,8 @@ body
 		text-align: center;
 		font-size: 22px;
 		line-height: 26px;
+		font-family: ubuntu, sans-serif;
+		font-weight: 500;
 		margin-top: 84px;
 		width: 87.19%;
 		margin-left: 6.41%;
