@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000012;
-	background-color: #9BD505;
+	color: #00001C;
+	background-color: #601A04;
 }
 
 .js body
@@ -12,15 +12,6 @@
 .js body.initialized
 {
 	visibility: visible;
-}
-
-@font-face
-{
-	font-family: '__Ubuntu_5';
-	src: url('../fonts/ubuntu-v9-latin-regular.eot');
-	src: local('☺'), url('../fonts/ubuntu-v9-latin-regular.woff') format('woff'), url('../fonts/ubuntu-v9-latin-regular.svg') format('svg');
-	font-weight: 400;
-	font-style: normal;
 }
 
 @font-face
@@ -38,6 +29,33 @@
 	src: url('../fonts/marcellus-v4-latin-regular.eot');
 	src: local('☺'), url('../fonts/marcellus-v4-latin-regular.woff') format('woff'), url('../fonts/marcellus-v4-latin-regular.svg') format('svg');
 	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Ubuntu_5';
+	src: url('../fonts/ubuntu-v9-latin-500.eot');
+	src: local('☺'), url('../fonts/ubuntu-v9-latin-500.woff') format('woff'), url('../fonts/ubuntu-v9-latin-500.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Ubuntu Mono_5';
+	src: url('../fonts/ubuntu-mono-v6-latin-regular.eot');
+	src: local('☺'), url('../fonts/ubuntu-mono-v6-latin-regular.woff') format('woff'), url('../fonts/ubuntu-mono-v6-latin-regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Ubuntu_5';
+	src: url('../fonts/ubuntu-v9-latin-300.eot');
+	src: local('☺'), url('../fonts/ubuntu-v9-latin-300.woff') format('woff'), url('../fonts/ubuntu-v9-latin-300.svg') format('svg');
+	font-weight: 300;
 	font-style: normal;
 }
 
@@ -103,6 +121,7 @@
 	background-color: transparent;
 	z-index: 11;
 	color: #FFFFFF;
+	font-weight: 500;
 }
 
 #u726
@@ -114,7 +133,7 @@
 
 #u763-4
 {
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	position: relative;
 	background-color: transparent;
 	z-index: 15;
@@ -124,7 +143,7 @@
 
 #u772-4
 {
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	position: relative;
 	filter: alpha(opacity=90);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
@@ -144,7 +163,7 @@
 
 #u1652-4
 {
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	position: relative;
 	background-color: transparent;
 	z-index: 19;
@@ -168,7 +187,7 @@
 
 #u1642-36
 {
-	font-family: ubuntu-mono, sans-serif;
+	font-family: '__Ubuntu Mono_5';
 	background-color: transparent;
 	z-index: 40;
 	font-weight: 400;
@@ -194,7 +213,7 @@
 
 #u1661-4
 {
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	position: relative;
 	background-color: transparent;
 	z-index: 23;
@@ -218,7 +237,7 @@
 	transition-duration: 0.3s;
 	transition-timing-function: ease;
 	z-index: 76;
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	font-weight: 300;
 	-webkit-transition-timing-function: ease;
 	-webkit-transition-duration: 0.3s;
@@ -237,7 +256,7 @@
 	transition-duration: 0.3s;
 	transition-timing-function: ease;
 	z-index: 80;
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	font-weight: 300;
 	-webkit-transition-timing-function: ease;
 	-webkit-transition-duration: 0.3s;
@@ -266,7 +285,7 @@
 
 #u1688-4
 {
-	font-family: ubuntu, sans-serif;
+	font-family: '__Ubuntu_5';
 	position: relative;
 	filter: alpha(opacity=70);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -459,7 +478,6 @@ body
 		font-size: 30px;
 		line-height: 36px;
 		font-family: '__Ubuntu_5';
-		font-weight: 400;
 		margin-right: -10000px;
 		margin-top: 186px;
 		left: 93px;
@@ -762,8 +780,7 @@ body
 		text-align: center;
 		font-size: 25px;
 		line-height: 30px;
-		font-family: ubuntu, sans-serif;
-		font-weight: 500;
+		font-family: '__Ubuntu_5';
 		margin-right: -10000px;
 		margin-top: 144px;
 		left: 74px;
@@ -1067,7 +1084,6 @@ body
 		font-size: 24px;
 		line-height: 29px;
 		font-family: ubuntu, sans-serif;
-		font-weight: 500;
 		margin-top: 92px;
 		width: 81.46%;
 		margin-left: 9.28%;
@@ -1355,8 +1371,7 @@ body
 		text-align: center;
 		font-size: 22px;
 		line-height: 26px;
-		font-family: ubuntu, sans-serif;
-		font-weight: 500;
+		font-family: '__Ubuntu_5';
 		margin-top: 84px;
 		width: 87.19%;
 		margin-left: 6.41%;
