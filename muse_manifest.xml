@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459237930017">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.redroma.tech" resolutions="1x" timestamp="1459288937333">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="299609702" ref="index"/>
-    <file name="nomq_index.css" crc="3842462033" ref="index"/>
+    <file name="index.css" crc="4068647138" ref="index"/>
+    <file name="nomq_index.css" crc="4145462915" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -27,11 +27,12 @@
     <file name="macbook pro@1x_poster_.png" crc="521713117" ref="index"/>
     <file name="u1853.png" crc="4121214116" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="redroma logo@3x.png" crc="4123373408" seo="true" ref="index"/>
     <file name="u18532.png" crc="3781898685" ref="index"/>
     <file name="u18533.png" crc="3827904776" ref="index"/>
     <file name="screen 1255x349.png" crc="4157099448" seo="true" ref="index"/>
     <file name="screen 2255x349.png" crc="345021357" seo="true" ref="index"/>
     <file name="u18534.png" crc="308864502" ref="index"/>
   </folder>
-  <file name="index.html" crc="4288130736" seo="true" mt="1459237140682" redirect="true"/>
+  <file name="index.html" crc="221412625" seo="true" mt="1459288843810" redirect="true"/>
 </manifest>

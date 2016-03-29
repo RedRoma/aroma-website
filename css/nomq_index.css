@@ -10,7 +10,8 @@
 
 	#page
 	{
-		min-height: 2385px;
+		min-height: 2618.9px;
+		padding-bottom: 0px;
 		max-width: 960px;
 	}
 
@@ -231,8 +232,8 @@
 
 	#u911
 	{
-		min-height: 81px;
-		padding-bottom: 24px;
+		min-height: 86px;
+		padding-bottom: 28px;
 	}
 
 	#u158_align_to_page,#u911_align_to_page
@@ -245,19 +246,19 @@
 		min-height: 60px;
 		font-size: 50px;
 		line-height: 60px;
-		margin-top: 21px;
+		margin-top: 26px;
 		width: 58.86%;
 		margin-left: 20.58%;
-		left: 0px;
+		left: -1px;
 	}
 
 	#u1705-5:hover
 	{
-		margin-top: 21px;
+		margin-top: 26px;
 		min-height: 60px;
 		width: 58.86%;
 		margin-left: 20.58%;
-		left: 0px;
+		left: -1px;
 	}
 
 	#u1705
@@ -273,7 +274,24 @@
 
 	#u911-bw
 	{
-		min-height: 81px;
-		margin-top: 155px;
+		min-height: 86px;
+		margin-top: 97px;
+	}
+
+	#u2369
+	{
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		width: 9.48%;
+		max-width: 91px;
+	}
+
+	#u2369:hover
+	{
+		margin-left: 0px;
+		margin-top: 0px;
+		width: 9.48%;
+		max-width: 91px;
 	}
 
