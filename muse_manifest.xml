@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.redroma.tech" resolutions="1x" timestamp="1459294492924">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.redroma.tech" resolutions="1x" timestamp="1459294590865">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="476060164" ref="index"/>
