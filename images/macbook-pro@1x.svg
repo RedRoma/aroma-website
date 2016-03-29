@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="368px" height="214px" viewBox="0 0 368 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>MacBook Pro@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#151515" offset="0%"></stop>
+            <stop stop-color="#2C2C2C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#96979B" offset="0%"></stop>
+            <stop stop-color="#2A2B2D" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#808185" offset="0%"></stop>
+            <stop stop-color="#CFD0D2" offset="0.797475782%"></stop>
+            <stop stop-color="#949599" offset="2.10447825%"></stop>
+            <stop stop-color="#A7A8AC" offset="3.73190757%"></stop>
+            <stop stop-color="#B6B7BB" offset="4.23426959%"></stop>
+            <stop stop-color="#CFD0D4" offset="0.212489602%"></stop>
+            <stop stop-color="#D8D8D8" offset="9.64049628%"></stop>
+            <stop stop-color="#DDDEE0" offset="90.9095999%"></stop>
+            <stop stop-color="#B1B2B4" offset="95.6196111%"></stop>
+            <stop stop-color="#C2C3C7" offset="98.2552801%"></stop>
+            <stop stop-color="#F1F3F2" offset="99.12764%"></stop>
+            <stop stop-color="#E9EBEA" offset="99.3572084%"></stop>
+            <stop stop-color="#D4D5D7" offset="99.730501%"></stop>
+            <stop stop-color="#7A7B7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="37.2336119%" x2="0%" y2="37.2336116%" id="linearGradient-5">
+            <stop stop-color="#949599" offset="0%"></stop>
+            <stop stop-color="#9E9FA3" offset="3.58222603%"></stop>
+            <stop stop-color="#B9BABC" offset="5.16614898%"></stop>
+            <stop stop-color="#E0E1E3" offset="8.56026958%"></stop>
+            <stop stop-color="#D8D9DB" offset="91.8293618%"></stop>
+            <stop stop-color="#C2C3C5" offset="94.5446582%"></stop>
+            <stop stop-color="#8D8E90" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.211009306 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Aroma-How-To" transform="translate(-241.000000, -1100.000000)">
+            <g id="MacBook-Pro" transform="translate(243.000000, 1100.000000)">
+                <g id="monitor" transform="translate(33.546080, 0.000000)">
+                    <rect id="screen-border" fill="#121212" x="0" y="0.501187648" width="296.90784" height="198.470309" rx="11.5"></rect>
+                    <rect stroke="#C6C6C6" x="0" y="0" width="296.90784" height="202.47981" rx="11.5"></rect>
+                    <rect id="screen" fill="#003536" x="9.5130674" y="13.0308789" width="278.382393" height="174.413302"></rect>
+                </g>
+                <g id="camera" transform="translate(180.247593, 6.014252)">
+                    <ellipse id="Oval-5" fill="url(#linearGradient-1)" cx="2.00275103" cy="2.00475059" rx="2.00275103" ry="2.00475059"></ellipse>
+                    <ellipse id="Oval-6" fill="#103470" cx="2.00275103" cy="2.00475059" rx="1.00137552" ry="1.0023753"></ellipse>
+                </g>
+                <g id="bottom" transform="translate(0.000000, 198.971496)">
+                    <path d="M0.298129308,6.82663919 C0.298129308,6.82663919 4.0914611,10.6198831 14.8339657,11.6216406 L349.165099,11.6216406 C349.165099,11.6216406 358.077927,10.9505729 363.859219,6.99198407 L8.72196149,6.99198407 L0.298129308,6.82663919 Z" id="lower-bottom" fill="url(#linearGradient-2)" filter="url(#filter-3)"></path>
+                    <rect id="upper-bottom" fill="url(#linearGradient-4)" x="0.500687758" y="0" width="363.499312" height="7.01662708"></rect>
+                    <path d="M156.428561,0.232149284 C156.428561,0.232149284 156.469772,3.13475416 159.372182,4.52133521 L204.507228,4.52133521 C204.507228,4.52133521 206.990217,3.61901718 207.542839,0.232149281 L157.16019,0.232149281" id="indent" fill="url(#linearGradient-5)" filter="url(#filter-6)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
