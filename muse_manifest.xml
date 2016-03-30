@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459372158300">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459372389807">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="3891829304" ref="index"/>
     <file name="nomq_index.css" crc="425845441" ref="index"/>
-    <file name="privacy-policy.css" crc="161007864" ref="privacy-policy"/>
+    <file name="privacy-policy.css" crc="534674601" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="4058252938" ref="privacy-policy"/>
   </folder>
   <folder name="fonts">
@@ -61,5 +61,5 @@
     <file name="aroma-favicon.ico" crc="3884509916" ref="index"/>
   </folder>
   <file name="index.html" crc="371866533" seo="true" mt="1459367895976" redirect="true"/>
-  <file name="privacy-policy.html" crc="4019443964" seo="true" mt="1459372143485" redirect="true"/>
+  <file name="privacy-policy.html" crc="4019443964" seo="true" mt="1459372382402" redirect="true"/>
 </manifest>
