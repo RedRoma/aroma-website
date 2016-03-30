@@ -1,8 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="github.redroma.tech" resolutions="1x" timestamp="1459294731256">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459371785311">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="338555986" ref="index"/>
-    <file name="nomq_index.css" crc="27425941" ref="index"/>
+    <file name="index.css" crc="3891829304" ref="index"/>
+    <file name="nomq_index.css" crc="425845441" ref="index"/>
+    <file name="privacy-policy.css" crc="4145895432" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="302920780" ref="privacy-policy"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -20,13 +22,26 @@
     <file name="ubuntu-v9-latin-300.woff" crc="448607562"/>
     <file name="ubuntu-v9-latin-300.eot" crc="129827703"/>
     <file name="ubuntu-v9-latin-300.svg" crc="3808214810"/>
+    <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
+    <file name="marcellus-sc-v4-latin-regular.eot" crc="4169106927"/>
+    <file name="marcellus-sc-v4-latin-regular.svg" crc="178137573"/>
+    <file name="marcellus-v4-latin-regular.woff" crc="168740487"/>
+    <file name="marcellus-v4-latin-regular.eot" crc="85623908"/>
+    <file name="marcellus-v4-latin-regular.svg" crc="3849965040"/>
+    <file name="ubuntu-v9-latin-300italic.woff" crc="36886767"/>
+    <file name="ubuntu-v9-latin-300italic.eot" crc="90153577"/>
+    <file name="ubuntu-v9-latin-300italic.svg" crc="310191802"/>
+    <file name="ubuntu-v9-latin-300.woff" crc="448607562"/>
+    <file name="ubuntu-v9-latin-300.eot" crc="129827703"/>
+    <file name="ubuntu-v9-latin-300.svg" crc="3808214810"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:privacy-policy"/>
+    <file name="museutils.js" crc="3790713428" ref="index:privacy-policy"/>
+    <file name="whatinput.js" crc="84559013" ref="index:privacy-policy"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:privacy-policy"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:privacy-policy"/>
+    <file name="pie.js" crc="3827607177" ref="privacy-policy"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="3855736229" seo="true" ref="index"/>
@@ -35,13 +50,16 @@
     <file name="macbook-pro@1x.svg" crc="201347913" ref="index"/>
     <file name="macbook pro@1x_poster_.png" crc="521713117" ref="index"/>
     <file name="u1853.png" crc="4121214116" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:privacy-policy"/>
     <file name="redroma logo@3x.png" crc="4123373408" seo="true" ref="index"/>
     <file name="u18532.png" crc="3781898685" ref="index"/>
     <file name="u18533.png" crc="3827904776" ref="index"/>
     <file name="screen 1255x349.png" crc="4157099448" seo="true" ref="index"/>
     <file name="screen 2255x349.png" crc="345021357" seo="true" ref="index"/>
     <file name="u18534.png" crc="308864502" ref="index"/>
+    <file name="privacy-policy-favicon.ico" crc="3884509916" ref="privacy-policy"/>
+    <file name="aroma-favicon.ico" crc="3884509916" ref="index"/>
   </folder>
-  <file name="index.html" crc="191390059" seo="true" mt="1459294721390" redirect="true"/>
+  <file name="index.html" crc="371866533" seo="true" mt="1459367895976" redirect="true"/>
+  <file name="privacy-policy.html" crc="451561830" seo="true" mt="1459371755103" redirect="true"/>
 </manifest>

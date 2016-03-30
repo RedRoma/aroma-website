@@ -21,6 +21,11 @@
 		padding-bottom: 14px;
 	}
 
+	#u158_align_to_page
+	{
+		max-width: 960px;
+	}
+
 	#u608
 	{
 		margin-right: -10000px;
@@ -142,6 +147,7 @@
 	#u1652-4
 	{
 		min-height: 84px;
+		color: #F8E71C;
 		text-align: left;
 		font-size: 30px;
 		line-height: 36px;
@@ -232,15 +238,32 @@
 		left: 60.42%;
 	}
 
+	#u3296-4
+	{
+		font-size: 16px;
+		line-height: 19px;
+		margin-left: 22px;
+		margin-top: 75px;
+		width: 18.23%;
+	}
+
+	#u3296-4:hover
+	{
+		margin-left: 22px;
+		margin-top: 75px;
+		width: 18.23%;
+	}
+
 	#u911
 	{
 		min-height: 86px;
 		padding-bottom: 28px;
 	}
 
-	#u158_align_to_page,#u911_align_to_page
+	#u911_align_to_page
 	{
 		max-width: 960px;
+		margin-bottom: -1px;
 	}
 
 	#u1705-5
@@ -277,7 +300,7 @@
 	#u911-bw
 	{
 		min-height: 86px;
-		margin-top: 97px;
+		margin-top: -1px;
 	}
 
 	#u2369

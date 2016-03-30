@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #2DF452;
+	color: #0000E7;
+	background-color: #F89A38;
 }
 
 .js body
@@ -168,7 +168,6 @@
 	position: relative;
 	background-color: transparent;
 	z-index: 19;
-	color: #FFFFFF;
 	font-weight: 500;
 }
 
@@ -329,6 +328,40 @@
 	width: 100%;
 }
 
+#u3296-4
+{
+	transition-duration: 0s;
+	font-family: '__Marcellus_5';
+	-webkit-transition-duration: 0s;
+	min-height: 23px;
+	background-color: transparent;
+	z-index: 96;
+	-webkit-transition-delay: 0s;
+	transition-delay: 0s;
+	font-weight: 400;
+	background-image: url("../images/blank.gif");
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u3296-4:hover
+{
+	transition-duration: 0.4s;
+	padding-bottom: 0px;
+	filter: alpha(opacity=50);
+	-webkit-transition-timing-function: ease;
+	-webkit-transition-duration: 0.4s;
+	min-height: 23px;
+	-webkit-transition-delay: 0s;
+	transition-delay: 0s;
+	padding-top: 0px;
+	transition-timing-function: ease;
+	margin-right: 0px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	opacity: 0.5;
+	margin-bottom: 0px;
+}
+
 #u911
 {
 	z-index: 35;
@@ -418,6 +451,11 @@ body
 	{
 		min-height: 202px;
 		padding-bottom: 14px;
+	}
+
+	#u158_align_to_page
+	{
+		max-width: 960px;
 	}
 
 	#u608
@@ -541,6 +579,7 @@ body
 	#u1652-4
 	{
 		min-height: 84px;
+		color: #F8E71C;
 		text-align: left;
 		font-size: 30px;
 		line-height: 36px;
@@ -631,15 +670,32 @@ body
 		left: 60.42%;
 	}
 
+	#u3296-4
+	{
+		font-size: 16px;
+		line-height: 19px;
+		margin-left: 22px;
+		margin-top: 75px;
+		width: 18.23%;
+	}
+
+	#u3296-4:hover
+	{
+		margin-left: 22px;
+		margin-top: 75px;
+		width: 18.23%;
+	}
+
 	#u911
 	{
 		min-height: 86px;
 		padding-bottom: 28px;
 	}
 
-	#u158_align_to_page,#u911_align_to_page
+	#u911_align_to_page
 	{
 		max-width: 960px;
+		margin-bottom: -1px;
 	}
 
 	#u1705-5
@@ -676,7 +732,7 @@ body
 	#u911-bw
 	{
 		min-height: 86px;
-		margin-top: 97px;
+		margin-top: -1px;
 	}
 
 	#u2369
@@ -848,6 +904,7 @@ body
 	#u1652-4
 	{
 		min-height: 88px;
+		color: #FFFFFF;
 		text-align: center;
 		font-size: 25px;
 		line-height: 30px;
@@ -949,6 +1006,23 @@ body
 		left: 60.81%;
 	}
 
+	#u3296-4
+	{
+		text-align: left;
+		font-size: 16px;
+		line-height: 19px;
+		margin-left: 20px;
+		margin-top: 185px;
+		width: 18.23%;
+	}
+
+	#u3296-4:hover
+	{
+		margin-left: 20px;
+		margin-top: 185px;
+		width: 18.23%;
+	}
+
 	#u911
 	{
 		min-height: 89px;
@@ -994,7 +1068,7 @@ body
 	#u911-bw
 	{
 		min-height: 89px;
-		margin-top: 209px;
+		margin-top: 1px;
 	}
 
 	#u2369
@@ -1127,6 +1201,7 @@ body
 	#u1652-4
 	{
 		min-height: 63px;
+		color: #FFFFFF;
 		text-align: center;
 		font-size: 24px;
 		line-height: 29px;
@@ -1233,6 +1308,25 @@ body
 		left: -1px;
 	}
 
+	#u3296-4
+	{
+		text-align: center;
+		font-size: 19px;
+		line-height: 23px;
+		margin-top: 70px;
+		width: 38.75%;
+		margin-left: 30.63%;
+		left: 0px;
+	}
+
+	#u3296-4:hover
+	{
+		margin-top: 70px;
+		width: 38.75%;
+		margin-left: 30.63%;
+		left: 0px;
+	}
+
 	#u911
 	{
 		min-height: 63px;
@@ -1278,7 +1372,7 @@ body
 	#u911-bw
 	{
 		min-height: 63px;
-		margin-top: 99px;
+		margin-top: 6px;
 	}
 
 	#u2369
@@ -1414,6 +1508,7 @@ body
 	#u1652-4
 	{
 		min-height: 63px;
+		color: #FFFFFF;
 		text-align: center;
 		font-size: 22px;
 		line-height: 26px;
@@ -1425,7 +1520,7 @@ body
 
 	#pu1629
 	{
-		margin-top: 14px;
+		margin-top: 29px;
 		width: 100%;
 	}
 
@@ -1522,7 +1617,7 @@ body
 
 	#u2369
 	{
-		margin-top: 36px;
+		margin-top: 137px;
 		position: relative;
 		width: 36.88%;
 		margin-left: 31.57%;
@@ -1531,10 +1626,29 @@ body
 
 	#u2369:hover
 	{
-		margin-top: 36px;
+		margin-top: 137px;
 		width: 36.88%;
 		margin-left: 31.57%;
 		left: 0px;
+	}
+
+	#u3296-4
+	{
+		text-align: center;
+		font-size: 16px;
+		line-height: 19px;
+		margin-top: 40px;
+		width: 51.25%;
+		margin-left: 24.38%;
+		left: -1px;
+	}
+
+	#u3296-4:hover
+	{
+		margin-top: 40px;
+		width: 51.25%;
+		margin-left: 24.38%;
+		left: -1px;
 	}
 
 	#u911
@@ -1582,7 +1696,7 @@ body
 	#u911-bw
 	{
 		min-height: 73px;
-		margin-top: 22px;
+		margin-top: 8px;
 	}
 
 	body
