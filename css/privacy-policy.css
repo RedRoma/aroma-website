@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #0000F7;
-	background-color: #1D5808;
+	color: #000009;
+	background-color: #98C8F8;
 }
 
 .js body
@@ -66,17 +66,16 @@
 #u2593
 {
 	-pie-box-shadow: 0px 3px 4px #A5A5A5;
+	z-index: 127;
 	box-shadow: 0px 3px 4px rgba(127,127,127,0.7);
-	border-color: #FFFFFF;
-	border-style: solid;
+	border-width: 0px;
 	background-color: #F42626;
-	z-index: 117;
-	border-width: 0px 0px 2px;
+	border-color: transparent;
 }
 
 #u2593-bw
 {
-	z-index: 117;
+	z-index: 127;
 }
 
 #u2665
@@ -92,7 +91,7 @@
 	border-radius: 2px;
 }
 
-#u2602-102
+#u2602-112
 {
 	font-family: '__Ubuntu_5';
 	border-color: transparent;
@@ -108,11 +107,6 @@
 #u2602-2
 {
 	letter-spacing: 1px;
-}
-
-#u2602-7,#u2602-21
-{
-	color: #0037E4;
 }
 
 #u2798-6
@@ -145,7 +139,7 @@
 	font-family: '__Marcellus SC_5';
 	-webkit-transition-duration: 0s;
 	background-color: transparent;
-	z-index: 122;
+	z-index: 132;
 	-webkit-transition-delay: 0s;
 	color: #FFFFFF;
 	transition-delay: 0s;
@@ -243,7 +237,7 @@ body
 	#u2593
 	{
 		min-height: 88px;
-		padding-bottom: 11px;
+		padding-bottom: 12px;
 	}
 
 	#u2871-4
@@ -268,7 +262,7 @@ body
 
 	#u2598-4
 	{
-		z-index: 118;
+		z-index: 128;
 		min-height: 52px;
 		font-size: 42px;
 		line-height: 50px;
@@ -287,12 +281,12 @@ body
 	#u2665
 	{
 		padding-bottom: 55px;
-		margin-top: 31px;
+		margin-top: 32px;
 		width: 95.42%;
 		margin-left: 2.09%;
 	}
 
-	#u2602-102
+	#u2602-112
 	{
 		color: #000000;
 		font-size: 15px;
@@ -302,7 +296,7 @@ body
 		left: 3.61%;
 	}
 
-	#u2602-22
+	#u2602-25,#u2602-68,#u2602-70
 	{
 		color: #0037E4;
 	}
@@ -393,7 +387,7 @@ body
 
 	#u2593
 	{
-		height: 179px;
+		height: 180px;
 		position: fixed;
 		top: 0px;
 	}
@@ -407,12 +401,12 @@ body
 
 	#u2665
 	{
-		padding-bottom: 54px;
+		padding-bottom: 71px;
 		width: 95.21%;
 		margin-left: 2.09%;
 	}
 
-	#u2602-102
+	#u2602-112
 	{
 		text-align: justify;
 		margin-top: 30px;
@@ -420,23 +414,23 @@ body
 		left: 5.26%;
 	}
 
-	#u2602-23
+	#u2602-26
 	{
 		line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 	}
 
-	#u2602-20
+	#u2602-21
 	{
 		line-height: 17px;
 	}
 
-	#u2602-21
+	#u2602-22,#u2602-24
 	{
 		font-size: 15px;
 		line-height: 18px;
 	}
 
-	#u2602-22
+	#u2602-25
 	{
 		font-size: 15px;
 		color: #000000;
@@ -537,7 +531,7 @@ body
 	{
 		position: fixed;
 		top: 93px;
-		z-index: 118;
+		z-index: 128;
 		left: 50%;
 		margin-left: -208px;
 		width: 86.67%;
@@ -569,7 +563,7 @@ body
 
 	#u2593
 	{
-		height: 151px;
+		height: 152px;
 		position: fixed;
 		top: 0px;
 	}
@@ -583,12 +577,12 @@ body
 
 	#u2665
 	{
-		padding-bottom: 583px;
+		padding-bottom: 634px;
 		width: 95%;
 		margin-left: 1.88%;
 	}
 
-	#u2602-102
+	#u2602-112
 	{
 		text-align: justify;
 		margin-top: 25px;
@@ -596,23 +590,23 @@ body
 		left: 3.95%;
 	}
 
-	#u2602-23
+	#u2602-26
 	{
 		line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 	}
 
-	#u2602-20
+	#u2602-21
 	{
 		line-height: 17px;
 	}
 
-	#u2602-21
+	#u2602-22,#u2602-24
 	{
 		font-size: 15px;
 		line-height: 18px;
 	}
 
-	#u2602-22
+	#u2602-25
 	{
 		font-size: 15px;
 		color: #000000;
@@ -672,7 +666,7 @@ body
 	{
 		position: fixed;
 		top: 81px;
-		z-index: 118;
+		z-index: 128;
 		left: 50%;
 		margin-left: -137px;
 		width: 85.32%;
