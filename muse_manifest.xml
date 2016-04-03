@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459697868320">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459697993108">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3967717861" ref="index"/>
+    <file name="index.css" crc="517701231" ref="index"/>
     <file name="nomq_index.css" crc="331496818" ref="index"/>
     <file name="privacy-policy.css" crc="4021518870" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="109402952" ref="privacy-policy"/>
@@ -63,6 +63,6 @@
     <file name="screen 2250x343.png" crc="3939979043" seo="true" ref="index"/>
     <file name="u18535.png" crc="308864502" ref="index"/>
   </folder>
-  <file name="index.html" crc="70658222" seo="true" mt="1459697838872" redirect="true"/>
+  <file name="index.html" crc="4193335373" seo="true" mt="1459697984216" redirect="true"/>
   <file name="privacy-policy.html" crc="4019443964" seo="true" mt="1459696941053" redirect="true"/>
 </manifest>

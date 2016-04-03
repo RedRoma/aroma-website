@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #7E91E5;
+	color: #00001E;
+	background-color: #DB7E6F;
 }
 
 .js body
@@ -1729,18 +1729,18 @@ body
 	#u2369
 	{
 		position: fixed;
-		bottom: 20px;
-		right: 13px;
-		width: 12%;
-		max-width: 45px;
+		bottom: 27px;
+		right: 20px;
+		width: 13.34%;
+		max-width: 50px;
 	}
 
 	#u2369:hover
 	{
 		margin-left: 0px;
 		margin-top: 0px;
-		width: 12%;
-		max-width: 45px;
+		width: 13.34%;
+		max-width: 50px;
 	}
 }
 
