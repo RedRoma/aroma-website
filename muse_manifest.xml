@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459698362427">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459698554725">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="3939937218" ref="index"/>
     <file name="nomq_index.css" crc="331496818" ref="index"/>
-    <file name="privacy-policy.css" crc="344824919" ref="privacy-policy"/>
-    <file name="nomq_privacy-policy.css" crc="893003" ref="privacy-policy"/>
+    <file name="privacy-policy.css" crc="4244432199" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="329486452" ref="privacy-policy"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -64,5 +64,5 @@
     <file name="u18535.png" crc="308864502" ref="index"/>
   </folder>
   <file name="index.html" crc="4193335373" seo="true" mt="1459698099353" redirect="true"/>
-  <file name="privacy-policy.html" crc="4019443964" seo="true" mt="1459698352404" redirect="true"/>
+  <file name="privacy-policy.html" crc="4178436602" seo="true" mt="1459698544401" redirect="true"/>
 </manifest>
