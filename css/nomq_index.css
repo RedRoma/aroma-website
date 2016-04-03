@@ -51,18 +51,18 @@
 	#u255-4
 	{
 		min-height: 91px;
+		line-height: 86px;
 		text-align: left;
 		font-size: 72px;
-		line-height: 86px;
 		width: 64.1%;
 	}
 
 	#u618-4
 	{
 		min-height: 63px;
+		line-height: 29px;
 		text-align: left;
 		font-size: 24px;
-		line-height: 29px;
 		margin-top: 6px;
 		width: 100%;
 	}
@@ -81,9 +81,9 @@
 	#u740-4
 	{
 		min-height: 108px;
+		line-height: 36px;
 		text-align: left;
 		font-size: 30px;
-		line-height: 36px;
 		margin-right: -10000px;
 		margin-top: 186px;
 		left: 93px;
@@ -122,18 +122,18 @@
 	#u763-4
 	{
 		min-height: 84px;
+		line-height: 36px;
 		text-align: left;
 		font-size: 30px;
-		line-height: 36px;
 		width: 100%;
 	}
 
 	#u772-4
 	{
 		min-height: 41px;
+		line-height: 19px;
 		text-align: left;
 		font-size: 16px;
-		line-height: 19px;
 		margin-top: 9px;
 		width: 99.71%;
 	}
@@ -147,10 +147,10 @@
 	#u1652-4
 	{
 		min-height: 84px;
+		line-height: 36px;
 		color: #F8E71C;
 		text-align: left;
 		font-size: 30px;
-		line-height: 36px;
 		margin-right: -10000px;
 		margin-top: 94px;
 		width: 24.48%;
@@ -168,8 +168,8 @@
 	{
 		width: 434px;
 		min-height: 248px;
-		font-size: 18px;
 		line-height: 22px;
+		font-size: 18px;
 		margin-top: 29px;
 		margin-left: 100%;
 		left: -510px;
@@ -178,8 +178,8 @@
 	#u1661-4
 	{
 		min-height: 61px;
-		font-size: 36px;
 		line-height: 43px;
+		font-size: 36px;
 		margin-top: 248px;
 		width: 56.05%;
 		margin-left: 21.98%;
@@ -230,9 +230,9 @@
 	#u1688-4
 	{
 		min-height: 28px;
+		line-height: 23px;
 		text-align: left;
 		font-size: 19px;
-		line-height: 23px;
 		margin-right: -10000px;
 		width: 19.59%;
 		left: 60.42%;
@@ -240,8 +240,8 @@
 
 	#u3296-4
 	{
-		font-size: 16px;
 		line-height: 19px;
+		font-size: 16px;
 		margin-left: 22px;
 		margin-top: 75px;
 		width: 18.23%;
@@ -269,8 +269,8 @@
 	#u1705-5
 	{
 		min-height: 60px;
-		font-size: 50px;
 		line-height: 60px;
+		font-size: 50px;
 		margin-top: 26px;
 		width: 58.86%;
 		margin-left: 20.58%;
