@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #9D133E;
+	color: #000010;
+	background-color: #78CFA7;
 }
 
 .js body
@@ -181,12 +181,12 @@
 #u1642-36
 {
 	font-family: '__Ubuntu Mono_5';
-	position: relative;
 	margin-right: -10000px;
 	font-weight: 400;
 	z-index: 40;
 	background-color: transparent;
 	color: #FFFFFF;
+	position: relative;
 }
 
 #u1642-9,#u1642-13
@@ -1578,10 +1578,20 @@ body
 		width: 275px;
 		min-height: 187px;
 		text-align: left;
-		font-size: 14px;
-		margin-top: 29px;
+		margin-top: 35px;
 		margin-left: 50%;
-		left: -139px;
+		left: -138px;
+	}
+
+	#u1642-7,#u1642-15,#u1642-16,#u1642-20,#u1642-24,#u1642-28,#u1642-30,#u1642-32
+	{
+		font-size: 14px;
+	}
+
+	#u1642-2,#u1642-3,#u1642-34
+	{
+		font-size: 12px;
+		line-height: 14px;
 	}
 
 	#u1661-4
