@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459695706569">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1459697508752">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="448830240" ref="index"/>
-    <file name="nomq_index.css" crc="506397882" ref="index"/>
-    <file name="privacy-policy.css" crc="476273975" ref="privacy-policy"/>
-    <file name="nomq_privacy-policy.css" crc="4265129637" ref="privacy-policy"/>
+    <file name="index.css" crc="3986494270" ref="index"/>
+    <file name="nomq_index.css" crc="331496818" ref="index"/>
+    <file name="privacy-policy.css" crc="4021518870" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="109402952" ref="privacy-policy"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -47,8 +47,8 @@
     <file name="logo.png" crc="3855736229" seo="true" ref="index"/>
     <file name="screen 1.png" crc="4196458525" seo="true" ref="index"/>
     <file name="screen 2.png" crc="4146862945" seo="true" ref="index"/>
-    <file name="macbook-pro@1x.svg" crc="366414553" ref="index"/>
-    <file name="macbook pro@1x_poster_.png" crc="3782288626" ref="index"/>
+    <file name="macbook-pro@1x.svg" crc="337733522" ref="index"/>
+    <file name="macbook pro@1x_poster_.png" crc="381283775" ref="index"/>
     <file name="u1853.png" crc="4121214116" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:privacy-policy"/>
     <file name="redroma logo@3x.png" crc="4123373408" seo="true" ref="index"/>
@@ -56,10 +56,13 @@
     <file name="u18533.png" crc="3827904776" ref="index"/>
     <file name="screen 1255x349.png" crc="4157099448" seo="true" ref="index"/>
     <file name="screen 2255x349.png" crc="345021357" seo="true" ref="index"/>
-    <file name="u18534.png" crc="308864502" ref="index"/>
+    <file name="u18534.png" crc="493098164" ref="index"/>
     <file name="privacy-policy-favicon.ico" crc="3884509916" ref="privacy-policy"/>
     <file name="aroma-favicon.ico" crc="3884509916" ref="index"/>
+    <file name="screen 1250x343.png" crc="496455767" seo="true" ref="index"/>
+    <file name="screen 2250x343.png" crc="3939979043" seo="true" ref="index"/>
+    <file name="u18535.png" crc="308864502" ref="index"/>
   </folder>
-  <file name="index.html" crc="3825675582" seo="true" mt="1459695703751" redirect="true"/>
-  <file name="privacy-policy.html" crc="4071794324" seo="true" mt="1459695689372" redirect="true"/>
+  <file name="index.html" crc="65085699" seo="true" mt="1459697452048" redirect="true"/>
+  <file name="privacy-policy.html" crc="4019443964" seo="true" mt="1459696941053" redirect="true"/>
 </manifest>

@@ -37,6 +37,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://aroma.redroma.tech/images/screen%201250x343.png</loc>
+    <lastmod>2016-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aroma.redroma.tech/images/screen%202250x343.png</loc>
+    <lastmod>2016-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://aroma.redroma.tech/index.html</loc>
     <lastmod>2016-04-03</lastmod>
     <changefreq>weekly</changefreq>

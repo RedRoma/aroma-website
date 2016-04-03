@@ -40,10 +40,10 @@
 
 	#u2598-4
 	{
+		z-index: 128;
 		min-height: 52px;
 		line-height: 50px;
 		font-size: 42px;
-		position: relative;
 		margin-right: -10000px;
 		margin-top: 36px;
 		width: 49.48%;

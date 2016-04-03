@@ -23,6 +23,9 @@
 
 	#u158_align_to_page
 	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
 		max-width: 960px;
 	}
 
@@ -69,6 +72,7 @@
 
 	#u158-bw
 	{
+		z-index: 2;
 		min-height: 202px;
 	}
 
@@ -160,6 +164,8 @@
 	#u1629
 	{
 		width: 572px;
+		position: relative;
+		margin-right: -10000px;
 		margin-left: 100%;
 		left: -592px;
 	}

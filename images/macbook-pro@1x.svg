@@ -63,7 +63,7 @@
                 <g id="monitor" transform="translate(33.546080, 0.000000)">
                     <rect id="screen-border" fill="#121212" x="0" y="0.501187648" width="296.90784" height="198.470309" rx="11.5"></rect>
                     <rect stroke="#C6C6C6" x="0" y="0" width="296.90784" height="202.47981" rx="11.5"></rect>
-                    <rect id="screen" fill="#003536" x="9.5130674" y="13.0308789" width="278.382393" height="174.413302"></rect>
+                    <rect id="screen" fill="#003536" x="10" y="13" width="278.382393" height="174.413302"></rect>
                 </g>
                 <g id="camera" transform="translate(180.247593, 6.014252)">
                     <ellipse id="Oval-5" fill="url(#linearGradient-1)" cx="2.00275103" cy="2.00475059" rx="2.00275103" ry="2.00475059"></ellipse>
