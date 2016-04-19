@@ -2,55 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aroma.redroma.tech/images/logo.png</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aroma.redroma.tech/images/screen%201.png</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aroma.redroma.tech/images/screen%202.png</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aroma.redroma.tech/images/redroma%20logo@3x.png</loc>
-    <lastmod>2016-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://aroma.redroma.tech/images/screen%201255x349.png</loc>
-    <lastmod>2016-04-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://aroma.redroma.tech/images/screen%202255x349.png</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aroma.redroma.tech/images/screen%201250x343.png</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aroma.redroma.tech/images/screen%202250x343.png</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aroma.redroma.tech/images/iphone%206s.png</loc>
+    <lastmod>2016-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aroma.redroma.tech/images/screen%201272x373.png</loc>
+    <lastmod>2016-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aroma.redroma.tech/images/screen%202272x373.png</loc>
+    <lastmod>2016-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://aroma.redroma.tech/images/iphone%206s250x426.png</loc>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aroma.redroma.tech/index.html</loc>
-    <lastmod>2016-04-03</lastmod>
+    <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
