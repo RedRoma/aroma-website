@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1461045185289">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1461754490799">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="311983017" ref="index"/>
+    <file name="index.css" crc="219830494" ref="index"/>
     <file name="nomq_index.css" crc="4021373676" ref="index"/>
     <file name="privacy-policy.css" crc="4093593373" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="329486452" ref="privacy-policy"/>
@@ -44,7 +44,6 @@
     <file name="pie.js" crc="3827607177" ref="privacy-policy"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="3855736229" seo="true" ref="index"/>
     <file name="screen 1.png" crc="4196458525" seo="true" ref="index"/>
     <file name="screen 2.png" crc="4146862945" seo="true" ref="index"/>
     <file name="macbook-pro@1x.svg" crc="337733522" ref="index"/>
@@ -66,7 +65,8 @@
     <file name="screen 1272x373.png" crc="356472172" seo="true" ref="index"/>
     <file name="screen 2272x373.png" crc="536669484" seo="true" ref="index"/>
     <file name="iphone 6s250x426.png" crc="3856231542" seo="true" ref="index"/>
+    <file name="logo@2x.png" crc="467184893" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="272269206" seo="true" mt="1461044112516" redirect="true"/>
+  <file name="index.html" crc="4157743165" seo="true" mt="1461754427194" redirect="true"/>
   <file name="privacy-policy.html" crc="4178436602" seo="true" mt="1459698584716" redirect="true"/>
 </manifest>
