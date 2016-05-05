@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #41E87F;
+	color: #0000E4;
+	background-color: #44FFAE;
 }
 
 .js body
@@ -386,9 +386,9 @@
 #u9760-13
 {
 	text-align: left;
+	color: #FFFFFF;
 	z-index: 78;
 	margin-right: -10000px;
-	color: #FFFFFF;
 	background-color: transparent;
 	position: relative;
 	font-weight: 400;
@@ -1347,7 +1347,7 @@ body
 		min-height: 60px;
 		font-size: 22px;
 		line-height: 31px;
-		font-family: '__Marcellus_5';
+		font-family: ubuntu-condensed, sans-serif;
 		margin-top: 38px;
 		width: 85.72%;
 		margin-left: 7.15%;
@@ -2680,9 +2680,9 @@ body
 	#u9760-13
 	{
 		min-height: 454px;
-		font-size: 19px;
-		line-height: 27px;
-		font-family: '__Marcellus_5';
+		font-size: 20px;
+		line-height: 28px;
+		font-family: ubuntu-condensed, sans-serif;
 		width: 99.41%;
 	}
 
