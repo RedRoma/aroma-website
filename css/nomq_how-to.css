@@ -64,13 +64,14 @@
 	#u9411-4
 	{
 		min-height: 37px;
+		font-size: 18px;
+		line-height: 22px;
 		width: 11.15%;
 		left: 68.75%;
 	}
 
 	#u9411-4:hover
 	{
-		margin-top: 0px;
 		min-height: 37px;
 		width: 11.15%;
 		margin-left: 0%;
@@ -85,7 +86,6 @@
 
 	#u9412-4.MuseLinkActive
 	{
-		margin-top: 0px;
 		min-height: 37px;
 		width: 18.67%;
 		margin-left: 0%;

@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462471554135">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462472112909">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3808538075" ref="index"/>
-    <file name="nomq_index.css" crc="4256181502" ref="index"/>
+    <file name="index.css" crc="4035666417" ref="index"/>
+    <file name="nomq_index.css" crc="4159316212" ref="index"/>
     <file name="privacy-policy.css" crc="70657858" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="509119460" ref="privacy-policy"/>
-    <file name="how-to.css" crc="68081477" ref="how-to"/>
-    <file name="nomq_how-to.css" crc="485728270" ref="how-to"/>
+    <file name="how-to.css" crc="371297870" ref="how-to"/>
+    <file name="nomq_how-to.css" crc="3831697625" ref="how-to"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -78,7 +78,7 @@
     <file name="55 device_img_3@1x.png" crc="94521026" seo="true" ref="index"/>
     <file name="macbook@1x382x245.png" crc="86147441" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="237369761" seo="true" mt="1462471536824" redirect="true"/>
+  <file name="index.html" crc="49346862" seo="true" mt="1462472089950" redirect="true"/>
   <file name="privacy-policy.html" crc="22043473" seo="true" mt="1462471288110" redirect="true"/>
-  <file name="how-to.html" crc="394337813" seo="true" mt="1462471288112" redirect="true"/>
+  <file name="how-to.html" crc="3928677079" seo="true" mt="1462471986181" redirect="true"/>
 </manifest>

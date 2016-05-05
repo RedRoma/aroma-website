@@ -115,7 +115,7 @@
 
 	#pamphletu9093
 	{
-		height: 600px;
+		height: 543px;
 		padding-bottom: 14px;
 		margin-top: 47px;
 		margin-left: 2.09%;
@@ -124,7 +124,7 @@
 	#u9113
 	{
 		width: 151px;
-		margin-top: 584px;
+		margin-top: 527px;
 		left: 384px;
 	}
 
@@ -273,7 +273,7 @@
 	{
 		width: 920px;
 		height: 454px;
-		padding-bottom: 109px;
+		padding-bottom: 16px;
 	}
 
 	#u9354
@@ -287,7 +287,7 @@
 	{
 		width: 920px;
 		height: 464px;
-		padding-bottom: 99px;
+		padding-bottom: 6px;
 	}
 
 	#u9104-4,#u9619-4
@@ -309,7 +309,7 @@
 	{
 		width: 920px;
 		height: 380px;
-		padding-bottom: 183px;
+		padding-bottom: 90px;
 	}
 
 	#u9745-4
@@ -346,30 +346,27 @@
 	#u9458
 	{
 		width: 920px;
-		height: 543px;
-		padding-bottom: 20px;
+		height: 470px;
 	}
 
 	#u9760-13
 	{
 		min-height: 399px;
 		width: 74.68%;
-		margin-left: 12.61%;
+		left: 12.61%;
 	}
 
 	#u6953
 	{
-		margin-top: 24px;
-		width: 21.09%;
-		margin-left: 39.46%;
+		margin-top: 120px;
+		width: 20.21%;
+		margin-left: 39.9%;
 	}
 
 	#u6953:hover
 	{
-		margin-right: 0px;
-		margin-top: 24px;
-		width: 21.09%;
-		margin-left: 39.46%;
+		width: 20.21%;
+		margin: 120px 0px 0px 39.895833333333336%;
 	}
 
 	#u6937-4
@@ -382,13 +379,13 @@
 	{
 		z-index: 29;
 		min-height: 22px;
-		margin-top: 116px;
+		margin-top: 113px;
 	}
 
 	#u6946
 	{
-		min-height: 85px;
-		padding-bottom: 29px;
+		min-height: 86px;
+		padding-bottom: 28px;
 	}
 
 	#u6946_align_to_page
@@ -402,7 +399,7 @@
 		min-height: 60px;
 		font-size: 50px;
 		line-height: 60px;
-		margin-top: 25px;
+		margin-top: 26px;
 		width: 58.86%;
 		margin-left: 20.58%;
 		left: 0px;
@@ -410,7 +407,7 @@
 
 	#u6958-5:hover
 	{
-		margin-top: 25px;
+		margin-top: 26px;
 		min-height: 60px;
 		width: 58.86%;
 		margin-left: 20.58%;
@@ -430,14 +427,14 @@
 
 	#u6946-bw
 	{
-		min-height: 85px;
+		min-height: 86px;
 		margin-top: -1px;
 	}
 
 	#u6935
 	{
 		position: fixed;
-		bottom: 9px;
+		bottom: -172px;
 		right: 20px;
 		width: 10.42%;
 		max-width: 100px;
