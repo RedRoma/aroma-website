@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #44FFAE;
+	color: #0000F8;
+	background-color: #8F6D9D;
 }
 
 .js body
@@ -385,11 +385,12 @@
 
 #u9760-13
 {
-	text-align: left;
-	color: #FFFFFF;
+	font-family: ubuntu-condensed, sans-serif;
+	text-align: justify;
+	background-color: transparent;
 	z-index: 78;
 	margin-right: -10000px;
-	background-color: transparent;
+	color: #FFFFFF;
 	position: relative;
 	font-weight: 400;
 }
@@ -808,7 +809,7 @@ body
 	{
 		width: 920px;
 		height: 454px;
-		padding-bottom: 15px;
+		padding-bottom: 50px;
 	}
 
 	#u9104-4
@@ -830,7 +831,7 @@ body
 	{
 		width: 920px;
 		height: 464px;
-		padding-bottom: 5px;
+		padding-bottom: 40px;
 	}
 
 	#u9619-4
@@ -882,7 +883,7 @@ body
 	#u9099,#u9458
 	{
 		width: 920px;
-		height: 469px;
+		height: 504px;
 	}
 
 	#u9760-13
@@ -890,7 +891,6 @@ body
 		min-height: 399px;
 		font-size: 28px;
 		line-height: 39px;
-		font-family: ubuntu-condensed, sans-serif;
 		width: 74.68%;
 		margin-left: 12.67%;
 		left: 0px;
@@ -1345,9 +1345,8 @@ body
 	#u9760-13
 	{
 		min-height: 60px;
-		font-size: 22px;
-		line-height: 31px;
-		font-family: ubuntu-condensed, sans-serif;
+		font-size: 24px;
+		line-height: 34px;
 		margin-top: 38px;
 		width: 85.72%;
 		margin-left: 7.15%;
@@ -1788,9 +1787,8 @@ body
 	#u9760-13
 	{
 		min-height: 381px;
-		font-size: 21px;
-		line-height: 29px;
-		font-family: '__Marcellus_5';
+		font-size: 22px;
+		line-height: 31px;
 		margin-top: 28px;
 		width: 100%;
 		margin-left: 0%;
@@ -2233,9 +2231,8 @@ body
 	#u9760-13
 	{
 		min-height: 60px;
-		font-size: 20px;
-		line-height: 28px;
-		font-family: '__Marcellus_5';
+		font-size: 22px;
+		line-height: 31px;
 		width: 99.55%;
 	}
 
@@ -2682,7 +2679,6 @@ body
 		min-height: 454px;
 		font-size: 20px;
 		line-height: 28px;
-		font-family: ubuntu-condensed, sans-serif;
 		width: 99.41%;
 	}
 
@@ -3115,9 +3111,8 @@ body
 	#u9760-13
 	{
 		min-height: 455px;
-		font-size: 17px;
-		line-height: 24px;
-		font-family: '__Marcellus_5';
+		font-size: 19px;
+		line-height: 27px;
 		width: 99.3%;
 		left: 0.36%;
 	}
