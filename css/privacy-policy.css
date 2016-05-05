@@ -1,7 +1,7 @@
 .version.privacy_policy /* version checker */
 {
-	color: #000004;
-	background-color: #362742;
+	color: #00000A;
+	background-color: #294D25;
 }
 
 .js body
@@ -93,7 +93,6 @@
 	-webkit-transition-duration: 0s;
 	left: 20px;
 	font-family: '__Marcellus SC_5';
-	text-align: left;
 	background-color: transparent;
 	z-index: 132;
 	-webkit-transition-delay: 0s;
@@ -247,6 +246,7 @@ body
 	#u2871-4
 	{
 		min-height: 26px;
+		text-align: center;
 		font-size: 24px;
 		line-height: 29px;
 		position: relative;
@@ -417,6 +417,7 @@ body
 	#u2871-4
 	{
 		min-height: 27px;
+		text-align: left;
 		font-size: 20px;
 		line-height: 24px;
 		position: fixed;
@@ -578,6 +579,7 @@ body
 	#u2871-4
 	{
 		min-height: 27px;
+		text-align: left;
 		font-size: 20px;
 		line-height: 24px;
 		position: fixed;
@@ -743,6 +745,7 @@ body
 	#u2871-4
 	{
 		min-height: 29px;
+		text-align: left;
 		font-size: 18px;
 		line-height: 22px;
 		position: fixed;

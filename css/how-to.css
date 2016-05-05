@@ -1,7 +1,7 @@
 .version.how_to /* version checker */
 {
-	color: #000016;
-	background-color: #218E4E;
+	color: #000001;
+	background-color: #43CC8C;
 }
 
 .js body
@@ -152,11 +152,6 @@
 	margin-bottom: 0px;
 	margin-top: 0px;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-}
-
-#u9412-4.MuseLinkActive p
-{
-	font-size: 20px;
 }
 
 #u5663-4

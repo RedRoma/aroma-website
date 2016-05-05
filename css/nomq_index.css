@@ -1,12 +1,7 @@
-	#pu9118:hover #u9118,#pu9118:active #u9118
+	#pu9118:active #u9118,#pu9116:hover #u9116,#pu9118:hover #u9118,#pu9116:active #u9116,#pu9437:active #u9437,#pu9437:hover #u9437,#pu9114:active #u9114,#pu9114:hover #u9114
 	{
 		width: 44px;
 		height: 44px;
-	}
-
-	#pu9116:hover #u9116,#pu9116:active #u9116,#pu9437:active #u9437,#pu9437:hover #u9437,#pu9114:hover #u9114,#pu9114:active #u9114
-	{
-		width: 44px;
 	}
 
 	#muse_css_mq
@@ -34,9 +29,6 @@
 
 	#u6964_align_to_page
 	{
-		margin-left: auto;
-		margin-right: auto;
-		position: relative;
 		max-width: 960px;
 	}
 
@@ -70,13 +62,15 @@
 	#u9373-4
 	{
 		min-height: 37px;
+		position: relative;
+		margin-right: -10000px;
 		width: 11.15%;
 		left: 68.75%;
 	}
 
 	#u9373-4.MuseLinkActive
 	{
-		margin-top: 0px;
+		margin-right: -10000px;
 		min-height: 37px;
 		width: 11.15%;
 		margin-left: 0%;
@@ -85,13 +79,17 @@
 	#u9388-4
 	{
 		min-height: 37px;
+		font-size: 18px;
+		line-height: 22px;
+		position: relative;
+		margin-right: -10000px;
 		width: 18.67%;
 		left: 81.34%;
 	}
 
 	#u9388-4:hover
 	{
-		margin-top: 0px;
+		margin-right: -10000px;
 		min-height: 37px;
 		width: 18.67%;
 		margin-left: 0%;
@@ -109,159 +107,161 @@
 
 	#u6964-bw
 	{
-		z-index: 2;
 		min-height: 202px;
 	}
 
 	#pamphletu9093
 	{
-		height: 543px;
-		padding-bottom: 14px;
+		height: 545px;
+		padding-bottom: 12px;
 		margin-top: 47px;
-		margin-left: 2.09%;
+		margin-left: 50%;
+		left: -460px;
 	}
 
 	#u9113
 	{
-		width: 151px;
-		margin-top: 527px;
-		left: 384px;
+		width: 155px;
+		margin-top: 525px;
+		left: 382px;
 	}
 
 	#pu9114
 	{
-		top: -15px;
-		left: -15px;
+		top: -13px;
+		left: -13px;
 	}
 
-	#u9604
+	#u11805
 	{
-		height: 16px;
-		width: 35.56%;
+		height: 20px;
+		width: 44.45%;
 	}
 
-	#pu9114:hover #u9604
+	#pu9114:hover #u11805
 	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 26.67%;
 	}
 
-	#pu9114:active #u9604
+	#pu9114:active #u11805
 	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 26.67%;
 	}
 
 	#pu9116
 	{
-		top: -15px;
-		left: 31px;
+		top: -13px;
+		left: 33px;
 	}
 
-	#pu9114.PamphletThumbSelected #u9604,#u9589
+	#pu9114.PamphletThumbSelected #u11805,#u11787
 	{
-		height: 16px;
-		width: 35.56%;
+		height: 20px;
+		width: 44.45%;
 	}
 
-	#pu9116:hover #u9589
+	#pu9116:hover #u11787
 	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 26.67%;
 	}
 
-	#pu9116:active #u9589
+	#pu9116:active #u11787
 	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 26.67%;
 	}
 
 	#pu9118
 	{
-		top: -15px;
-		left: 76px;
+		top: -13px;
+		left: 78px;
 	}
 
-	#u9118
+	#pu9116.PamphletThumbSelected #u11787,#u11769
+	{
+		height: 20px;
+		width: 44.45%;
+	}
+
+	#pu9118:hover #u11769
+	{
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 24.45%;
+	}
+
+	#pu9118:active #u11769
+	{
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 24.45%;
+	}
+
+	#pu9118 #u11769
+	{
+		margin-top: 13px;
+		width: 44.45%;
+		left: 26.67%;
+	}
+
+	#pu9437
+	{
+		top: -13px;
+		left: 123px;
+	}
+
+	#u9114,#u9116,#u9118,#u9437
 	{
 		width: 45px;
 		height: 45px;
 	}
 
-	#pu9116.PamphletThumbSelected #u9589,#u9574
+	#pu9118.PamphletThumbSelected #u11769,#u9510
 	{
-		height: 16px;
-		width: 35.56%;
-	}
-
-	#pu9118:hover #u9574
-	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
-	}
-
-	#pu9118:active #u9574
-	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
-	}
-
-	#pu9437
-	{
-		top: -15px;
-		left: 121px;
-	}
-
-	#u9114,#u9116,#u9437
-	{
-		width: 45px;
-	}
-
-	#pu9118.PamphletThumbSelected #u9574,#u9510
-	{
-		height: 16px;
-		width: 35.56%;
+		height: 20px;
+		width: 44.45%;
 	}
 
 	#pu9437:hover #u9510
 	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 26.67%;
 	}
 
 	#pu9437:active #u9510
 	{
-		margin-top: 14px;
-		height: 16px;
-		width: 35.56%;
-		left: 31.12%;
+		margin-top: 12px;
+		height: 20px;
+		width: 44.45%;
+		left: 26.67%;
 	}
 
 	#pu9437.PamphletThumbSelected #u9510
 	{
-		height: 16px;
-		width: 35.56%;
+		height: 20px;
+		width: 44.45%;
 	}
 
-	#pu9114 #u9604,#pu9116 #u9589,#pu9118 #u9574,#pu9437 #u9510
+	#pu9114 #u11805,#pu9116 #u11787,#pu9437 #u9510
 	{
-		margin-top: 15px;
-		width: 35.56%;
-		left: 33.34%;
+		margin-top: 13px;
+		width: 44.45%;
+		left: 28.89%;
 	}
 
 	#u9098
@@ -273,7 +273,15 @@
 	{
 		width: 920px;
 		height: 454px;
-		padding-bottom: 16px;
+		padding-bottom: 15px;
+	}
+
+	#u9104-4
+	{
+		font-size: 24px;
+		line-height: 34px;
+		width: 27.51%;
+		margin-left: 36.31%;
 	}
 
 	#u9354
@@ -287,12 +295,12 @@
 	{
 		width: 920px;
 		height: 464px;
-		padding-bottom: 6px;
+		padding-bottom: 5px;
 	}
 
-	#u9104-4,#u9619-4
+	#u9619-4
 	{
-		text-align: center;
+		min-height: 60px;
 		font-size: 24px;
 		line-height: 34px;
 		width: 27.51%;
@@ -305,37 +313,30 @@
 		margin-left: 37.61%;
 	}
 
-	#u9099
+	#u9634
 	{
-		width: 920px;
-		height: 380px;
-		padding-bottom: 90px;
+		margin-top: 92px;
+		width: 48.92%;
 	}
 
 	#u9745-4
 	{
-		text-align: center;
+		min-height: 60px;
 		font-size: 24px;
 		line-height: 34px;
+		font-weight: 500;
+		margin-right: -10000px;
 		width: 49.46%;
-		margin-left: 25.33%;
-	}
-
-	#pu9634
-	{
-		margin-top: 32px;
-		width: 84.35%;
-	}
-
-	#u9634
-	{
-		width: 57.99%;
+		margin-left: 25.28%;
+		left: 1px;
 	}
 
 	#u9688
 	{
-		width: 20.88%;
-		left: 79.13%;
+		margin-top: 92px;
+		width: 17.61%;
+		margin-left: 82.4%;
+		left: -144px;
 	}
 
 	#page_position_content,#u6939_img,#pu6933-4,#u9354_img,#u9521_img,#u9634_img,#u9688_img
@@ -343,30 +344,34 @@
 		width: 100%;
 	}
 
-	#u9458
+	#u9099,#u9458
 	{
 		width: 920px;
-		height: 470px;
+		height: 469px;
 	}
 
 	#u9760-13
 	{
 		min-height: 399px;
+		font-size: 25px;
+		line-height: 35px;
 		width: 74.68%;
-		left: 12.61%;
+		margin-left: 12.67%;
+		left: -1px;
 	}
 
 	#u6953
 	{
-		margin-top: 120px;
+		margin-top: 127px;
 		width: 20.21%;
 		margin-left: 39.9%;
 	}
 
 	#u6953:hover
 	{
+		margin-top: 127px;
 		width: 20.21%;
-		margin: 120px 0px 0px 39.895833333333336%;
+		margin-left: 39.9%;
 	}
 
 	#u6937-4
@@ -377,9 +382,7 @@
 
 	#u6937-4-bw
 	{
-		z-index: 29;
-		min-height: 22px;
-		margin-top: 113px;
+		margin-top: 106px;
 	}
 
 	#u6946
@@ -434,7 +437,7 @@
 	#u6935
 	{
 		position: fixed;
-		bottom: -172px;
+		bottom: 9px;
 		right: 20px;
 		width: 10.42%;
 		max-width: 100px;

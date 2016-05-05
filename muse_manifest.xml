@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462472112909">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462476158555">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4035666417" ref="index"/>
-    <file name="nomq_index.css" crc="4159316212" ref="index"/>
-    <file name="privacy-policy.css" crc="70657858" ref="privacy-policy"/>
-    <file name="nomq_privacy-policy.css" crc="509119460" ref="privacy-policy"/>
-    <file name="how-to.css" crc="371297870" ref="how-to"/>
+    <file name="index.css" crc="3825212980" ref="index"/>
+    <file name="nomq_index.css" crc="437062157" ref="index"/>
+    <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
+    <file name="how-to.css" crc="21220492" ref="how-to"/>
     <file name="nomq_how-to.css" crc="3831697625" ref="how-to"/>
   </folder>
   <folder name="fonts">
@@ -74,11 +74,17 @@
     <file name="how-to-favicon.ico" crc="3884509916" ref="how-to"/>
     <file name="home-favicon.ico" crc="3884509916" ref="index"/>
     <file name="macbook@1x.png" crc="4046160252" seo="true" ref="index"/>
-    <file name="55 device_img_1@1x.png" crc="55826522" seo="true" ref="index"/>
+    <file name="55 device_img_1@1x.png" crc="3999102846" seo="true" ref="index"/>
     <file name="55 device_img_3@1x.png" crc="94521026" seo="true" ref="index"/>
-    <file name="macbook@1x382x245.png" crc="86147441" seo="true" ref="index"/>
+    <file name="macbook@1x354x227.png" crc="3970115720" seo="true" ref="index"/>
+    <file name="macbook@1x280x180.png" crc="157673940" seo="true" ref="index"/>
+    <file name="macbook@1x441x283.png" crc="210643016" seo="true" ref="index"/>
+    <file name="macbook@1x132x85.png" crc="476461605" seo="true" ref="index"/>
+    <file name="macbook@1x335x215.png" crc="4290147042" seo="true" ref="index"/>
+    <file name="macbook@1x155x99.png" crc="4212959613" seo="true" ref="index"/>
+    <file name="macbook@1x158x102.png" crc="4289075628" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="49346862" seo="true" mt="1462472089950" redirect="true"/>
-  <file name="privacy-policy.html" crc="22043473" seo="true" mt="1462471288110" redirect="true"/>
-  <file name="how-to.html" crc="3928677079" seo="true" mt="1462471986181" redirect="true"/>
+  <file name="index.html" crc="287623309" seo="true" mt="1462476148234" redirect="true"/>
+  <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
+  <file name="how-to.html" crc="3928677079" seo="true" mt="1462472144700" redirect="true"/>
 </manifest>
