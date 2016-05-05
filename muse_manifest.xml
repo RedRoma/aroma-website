@@ -1,10 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1461754490799">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462477900725">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="219830494" ref="index"/>
-    <file name="nomq_index.css" crc="4021373676" ref="index"/>
-    <file name="privacy-policy.css" crc="4093593373" ref="privacy-policy"/>
-    <file name="nomq_privacy-policy.css" crc="329486452" ref="privacy-policy"/>
+    <file name="index.css" crc="3963742335" ref="index"/>
+    <file name="nomq_index.css" crc="4012881394" ref="index"/>
+    <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
+    <file name="how-to.css" crc="4260331551" ref="how-to"/>
+    <file name="nomq_how-to.css" crc="4103308915" ref="how-to"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -36,37 +38,53 @@
     <file name="ubuntu-v9-latin-300.svg" crc="3808214810"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:privacy-policy"/>
-    <file name="museutils.js" crc="3790713428" ref="index:privacy-policy"/>
-    <file name="whatinput.js" crc="84559013" ref="index:privacy-policy"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:privacy-policy"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:privacy-policy"/>
-    <file name="pie.js" crc="3827607177" ref="privacy-policy"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:privacy-policy:how-to"/>
+    <file name="museutils.js" crc="3790713428" ref="index:privacy-policy:how-to"/>
+    <file name="whatinput.js" crc="84559013" ref="index:privacy-policy:how-to"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:privacy-policy:how-to"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:privacy-policy:how-to"/>
+    <file name="pie.js" crc="3827607177" ref="privacy-policy:index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="screen 1.png" crc="4196458525" seo="true" ref="index"/>
-    <file name="screen 2.png" crc="4146862945" seo="true" ref="index"/>
-    <file name="macbook-pro@1x.svg" crc="337733522" ref="index"/>
-    <file name="macbook pro@1x_poster_.png" crc="440904250" ref="index"/>
-    <file name="u1853.png" crc="4121214116" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:privacy-policy"/>
-    <file name="redroma logo@3x.png" crc="4123373408" seo="true" ref="index"/>
-    <file name="u18532.png" crc="3781898685" ref="index"/>
-    <file name="u18533.png" crc="3827904776" ref="index"/>
-    <file name="u18534.png" crc="493098164" ref="index"/>
+    <file name="screen 1.png" crc="4196458525" seo="true" ref="how-to"/>
+    <file name="screen 2.png" crc="4146862945" seo="true" ref="how-to"/>
+    <file name="macbook-pro@1x.svg" crc="337733522" ref="how-to"/>
+    <file name="macbook pro@1x_poster_.png" crc="440904250" ref="how-to"/>
+    <file name="u1853.png" crc="4121214116" ref="how-to"/>
+    <file name="blank.gif" crc="4208392903" ref="index:privacy-policy:how-to"/>
+    <file name="redroma logo@3x.png" crc="4123373408" seo="true" ref="index:how-to"/>
+    <file name="u18532.png" crc="3781898685" ref="how-to"/>
+    <file name="u18533.png" crc="3827904776" ref="how-to"/>
+    <file name="u18534.png" crc="493098164" ref="how-to"/>
     <file name="privacy-policy-favicon.ico" crc="3884509916" ref="privacy-policy"/>
-    <file name="aroma-favicon.ico" crc="3884509916" ref="index"/>
-    <file name="screen 1250x343.png" crc="496455767" seo="true" ref="index"/>
-    <file name="screen 2250x343.png" crc="3939979043" seo="true" ref="index"/>
-    <file name="u18535.png" crc="308864502" ref="index"/>
-    <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" ref="index"/>
-    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="514650753" ref="index"/>
-    <file name="iphone 6s.png" crc="372332648" seo="true" ref="index"/>
-    <file name="screen 1272x373.png" crc="356472172" seo="true" ref="index"/>
-    <file name="screen 2272x373.png" crc="536669484" seo="true" ref="index"/>
-    <file name="iphone 6s250x426.png" crc="3856231542" seo="true" ref="index"/>
-    <file name="logo@2x.png" crc="467184893" seo="true" ref="index"/>
+    <file name="screen 1250x343.png" crc="496455767" seo="true" ref="how-to"/>
+    <file name="screen 2250x343.png" crc="3939979043" seo="true" ref="how-to"/>
+    <file name="u18535.png" crc="308864502" ref="how-to"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" ref="index:how-to"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="514650753" ref="how-to"/>
+    <file name="iphone 6s.png" crc="372332648" seo="true" ref="how-to"/>
+    <file name="screen 1272x373.png" crc="356472172" seo="true" ref="how-to"/>
+    <file name="screen 2272x373.png" crc="536669484" seo="true" ref="how-to"/>
+    <file name="iphone 6s250x426.png" crc="3856231542" seo="true" ref="how-to"/>
+    <file name="logo@2x.png" crc="467184893" seo="true" ref="index:how-to"/>
+    <file name="how-to-favicon.ico" crc="3884509916" ref="how-to"/>
+    <file name="home-favicon.ico" crc="3884509916" ref="index"/>
+    <file name="macbook@1x.png" crc="4046160252" seo="true" ref="index"/>
+    <file name="55 device_img_1@1x.png" crc="3999102846" seo="true" ref="index"/>
+    <file name="55 device_img_3@1x.png" crc="94521026" seo="true" ref="index"/>
+    <file name="macbook@1x354x227.png" crc="3970115720" seo="true" ref="index"/>
+    <file name="macbook@1x280x180.png" crc="157673940" seo="true" ref="index"/>
+    <file name="macbook@1x441x283.png" crc="210643016" seo="true" ref="index"/>
+    <file name="macbook@1x132x85.png" crc="476461605" seo="true" ref="index"/>
+    <file name="macbook@1x335x215.png" crc="4290147042" seo="true" ref="index"/>
+    <file name="macbook@1x155x99.png" crc="4212959613" seo="true" ref="index"/>
+    <file name="macbook@1x158x102.png" crc="4289075628" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4157743165" seo="true" mt="1461754427194" redirect="true"/>
-  <file name="privacy-policy.html" crc="4178436602" seo="true" mt="1459698584716" redirect="true"/>
+  <file name="index.html" crc="4214727089" seo="true" mt="1462477887695" redirect="true"/>
+  <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
+  <file name="how-to.html" crc="469005142" seo="true" mt="1462477665434" redirect="true"/>
 </manifest>
