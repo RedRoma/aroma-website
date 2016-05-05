@@ -79,32 +79,21 @@
                     </g>
                 </g>
             </g>
-            <text id="{" font-family="UbuntuMono-Regular, Ubuntu Mono" font-size="134" font-weight="normal">
-                <tspan x="563" y="429" fill="#FFFFFF">{</tspan>
-                <tspan x="563" y="563" fill="#FFFFFF"> </tspan>
-                <tspan x="563" y="697" fill="#FFFFFF"> String token = </tspan>
-                <tspan x="1635" y="697" fill="#F8E81C">“</tspan>
-                <tspan x="1702" y="697" font-family="Ubuntu" fill="#F8E81C">6d668757-ff51...”</tspan>
-                <tspan x="2759.93" y="697" font-family="Ubuntu" fill="#FFFFFF">;</tspan>
-                <tspan x="2792.894" y="697" fill="#FFFFFF"></tspan>
-                <tspan x="563" y="847" fill="#FFFFFF"> </tspan>
-                <tspan x="630" y="847" fill="#F42626">Aroma</tspan>
-                <tspan x="965" y="847" fill="#FFFFFF"> aroma = </tspan>
-                <tspan x="1568" y="847" fill="#F42626">Aroma</tspan>
-                <tspan x="1903" y="847" fill="#FFFFFF">.create(token);</tspan>
-                <tspan x="563" y="981" fill="#FFFFFF"></tspan>
-                <tspan x="563" y="1115" fill="#FFFFFF"> </tspan>
-                <tspan x="630" y="1115" fill="#7ED321">aroma</tspan>
-                <tspan x="965" y="1115" fill="#FFFFFF">.beginMessage()</tspan>
-                <tspan x="563" y="1249" fill="#FFFFFF">	  .title(</tspan>
-                <tspan x="1194" y="1249" fill="#F8E81C">“New User”</tspan>
-                <tspan x="1864" y="1249" fill="#FFFFFF">)</tspan>
-                <tspan x="563" y="1383" fill="#FFFFFF">	  .body(</tspan>
-                <tspan x="1127" y="1383" fill="#7ED321">user</tspan>
-                <tspan x="1395" y="1383" fill="#FFFFFF">.email)</tspan>
-                <tspan x="563" y="1517" fill="#FFFFFF">	  .withUrgency(LOW)</tspan>
-                <tspan x="563" y="1651" fill="#FFFFFF">	  .send();</tspan>
-                <tspan x="563" y="1785" fill="#FFFFFF">}</tspan>
+            <text id="{" font-family="UbuntuMono-Regular, Ubuntu Mono" font-size="165" font-weight="normal">
+                <tspan x="556" y="490" fill="#FFFFFF">{</tspan>
+                <tspan x="556" y="655" fill="#FFFFFF"> </tspan>
+                <tspan x="556" y="820" fill="#FFFFFF"> </tspan>
+                <tspan x="638.5" y="820" fill="#7ED321">aroma</tspan>
+                <tspan x="1051" y="820" fill="#FFFFFF">.beginMessage()</tspan>
+                <tspan x="556" y="985" fill="#FFFFFF">	  .title(</tspan>
+                <tspan x="1326.5" y="985" fill="#F8E81C">“App Followed”</tspan>
+                <tspan x="2481.5" y="985" fill="#FFFFFF">)</tspan>
+                <tspan x="556" y="1150" fill="#FFFFFF">	  .body(</tspan>
+                <tspan x="1244" y="1150" fill="#7ED321">user</tspan>
+                <tspan x="1574" y="1150" fill="#FFFFFF">.email)</tspan>
+                <tspan x="556" y="1315" fill="#FFFFFF">	  .withUrgency(LOW)</tspan>
+                <tspan x="556" y="1480" fill="#FFFFFF">	  .send();</tspan>
+                <tspan x="556" y="1645" fill="#FFFFFF">}</tspan>
             </text>
         </g>
     </g>
