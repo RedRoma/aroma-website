@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FC;
-	background-color: #760550;
+	color: #0000E6;
+	background-color: #0E5D8D;
 }
 
 .js body
@@ -2696,23 +2696,6 @@ body
 		margin-left: 20.27%;
 	}
 
-	#u6935
-	{
-		position: fixed;
-		bottom: 80px;
-		right: 20px;
-		width: 13.34%;
-		max-width: 50px;
-	}
-
-	#u6935:hover
-	{
-		margin-left: 0px;
-		margin-top: 0px;
-		width: 13.34%;
-		max-width: 50px;
-	}
-
 	#u6937-4
 	{
 		min-height: 41px;
@@ -2773,6 +2756,23 @@ body
 	{
 		min-height: 63px;
 		margin-top: -1px;
+	}
+
+	#u6935
+	{
+		position: fixed;
+		bottom: 17px;
+		right: 20px;
+		width: 13.34%;
+		max-width: 50px;
+	}
+
+	#u6935:hover
+	{
+		margin-left: 0px;
+		margin-top: 0px;
+		width: 13.34%;
+		max-width: 50px;
 	}
 }
 
