@@ -250,11 +250,6 @@
 		left: -266px;
 	}
 
-	#untitled
-	{
-		margin-top: 132px;
-	}
-
 	#u1661-4
 	{
 		min-height: 61px;
@@ -342,6 +337,7 @@
 
 	#u5678-4
 	{
+		min-height: 22px;
 		font-size: 12px;
 		line-height: 14px;
 		position: relative;
