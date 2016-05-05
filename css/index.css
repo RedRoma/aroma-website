@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #176B29;
+	color: #0000EC;
+	background-color: #41E87F;
 }
 
 .js body
@@ -391,6 +391,7 @@
 	color: #FFFFFF;
 	background-color: transparent;
 	position: relative;
+	font-weight: 400;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton
@@ -887,13 +888,12 @@ body
 	#u9760-13
 	{
 		min-height: 399px;
-		font-size: 25px;
-		line-height: 35px;
-		font-family: '__Ubuntu_5';
-		font-weight: 300;
+		font-size: 28px;
+		line-height: 39px;
+		font-family: ubuntu-condensed, sans-serif;
 		width: 74.68%;
 		margin-left: 12.67%;
-		left: -1px;
+		left: 0px;
 	}
 
 	#u6953
@@ -1348,7 +1348,6 @@ body
 		font-size: 22px;
 		line-height: 31px;
 		font-family: '__Marcellus_5';
-		font-weight: 400;
 		margin-top: 38px;
 		width: 85.72%;
 		margin-left: 7.15%;
@@ -1792,7 +1791,6 @@ body
 		font-size: 21px;
 		line-height: 29px;
 		font-family: '__Marcellus_5';
-		font-weight: 400;
 		margin-top: 28px;
 		width: 100%;
 		margin-left: 0%;
@@ -2238,7 +2236,6 @@ body
 		font-size: 20px;
 		line-height: 28px;
 		font-family: '__Marcellus_5';
-		font-weight: 400;
 		width: 99.55%;
 	}
 
@@ -2686,7 +2683,6 @@ body
 		font-size: 19px;
 		line-height: 27px;
 		font-family: '__Marcellus_5';
-		font-weight: 400;
 		width: 99.41%;
 	}
 
@@ -3122,7 +3118,6 @@ body
 		font-size: 17px;
 		line-height: 24px;
 		font-family: '__Marcellus_5';
-		font-weight: 400;
 		width: 99.3%;
 		left: 0.36%;
 	}

@@ -350,13 +350,12 @@
 	#u9760-13
 	{
 		min-height: 399px;
-		font-size: 25px;
-		line-height: 35px;
-		font-family: '__Ubuntu_5';
-		font-weight: 300;
+		font-size: 28px;
+		line-height: 39px;
+		font-family: ubuntu-condensed, sans-serif;
 		width: 74.68%;
 		margin-left: 12.67%;
-		left: -1px;
+		left: 0px;
 	}
 
 	#u6953

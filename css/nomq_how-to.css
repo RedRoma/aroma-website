@@ -21,17 +21,8 @@
 		padding-bottom: 14px;
 	}
 
-	#u158_align_to_page
-	{
-		margin-left: auto;
-		margin-right: auto;
-		position: relative;
-		max-width: 960px;
-	}
-
 	#u608
 	{
-		margin-right: -10000px;
 		margin-top: 20px;
 		width: 18.96%;
 		left: 2.09%;
@@ -53,10 +44,8 @@
 	#u255-4
 	{
 		min-height: 91px;
-		text-align: left;
 		font-size: 72px;
 		line-height: 86px;
-		margin-right: -10000px;
 		margin-top: 3px;
 		width: 61.22%;
 	}
@@ -103,7 +92,6 @@
 
 	#u158-bw
 	{
-		z-index: 2;
 		min-height: 202px;
 	}
 
@@ -352,7 +340,7 @@
 		padding-bottom: 28px;
 	}
 
-	#u911_align_to_page
+	#u158_align_to_page,#u911_align_to_page
 	{
 		max-width: 960px;
 	}
