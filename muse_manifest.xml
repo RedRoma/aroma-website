@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462479674764">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462479849803">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3950357780" ref="index"/>
+    <file name="index.css" crc="399753426" ref="index"/>
     <file name="nomq_index.css" crc="51049731" ref="index"/>
     <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
@@ -84,7 +84,7 @@
     <file name="macbook@1x158x102.png" crc="4289075628" seo="true" ref="index"/>
     <file name="aroma-favicon.ico" crc="3884509916" ref="index"/>
   </folder>
-  <file name="index.html" crc="3878422797" seo="true" mt="1462479608196" redirect="true"/>
+  <file name="index.html" crc="4205747400" seo="true" mt="1462479835558" redirect="true"/>
   <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
   <file name="how-to.html" crc="3759979892" seo="true" mt="1462479457060" redirect="true"/>
 </manifest>

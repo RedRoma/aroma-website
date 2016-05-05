@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EB;
-	background-color: #75AD14;
+	color: #000017;
+	background-color: #D3C0D2;
 }
 
 .js body
@@ -2349,8 +2349,7 @@ body
 
 	#page
 	{
-		min-height: 479.80221472862513px;
-		padding-bottom: 0px;
+		min-height: 480px;
 		max-width: 375px;
 	}
 
@@ -2450,7 +2449,7 @@ body
 
 	#pamphletu9093
 	{
-		height: 598px;
+		height: 506px;
 		padding-bottom: 13px;
 		margin-top: 56px;
 		margin-left: 5.34%;
@@ -2459,7 +2458,7 @@ body
 	#u9113
 	{
 		width: 134px;
-		margin-top: 584px;
+		margin-top: 492px;
 		left: 100px;
 	}
 
@@ -2598,7 +2597,7 @@ body
 	{
 		width: 335px;
 		height: 274px;
-		padding-bottom: 273px;
+		padding-bottom: 185px;
 	}
 
 	#u9104-4
@@ -2617,7 +2616,7 @@ body
 	{
 		width: 335px;
 		height: 455px;
-		padding-bottom: 92px;
+		padding-bottom: 4px;
 	}
 
 	#u9619-4
@@ -2635,13 +2634,6 @@ body
 		margin-left: 16.12%;
 	}
 
-	#u9099
-	{
-		width: 335px;
-		height: 522px;
-		padding-bottom: 25px;
-	}
-
 	#u9745-4
 	{
 		min-height: 40px;
@@ -2653,26 +2645,26 @@ body
 
 	#pu9634
 	{
-		width: 67.77%;
-		margin-left: 16.12%;
+		width: 57.32%;
+		margin-left: 21.5%;
 	}
 
 	#u9634
 	{
 		width: 154px;
-		left: 15.86%;
+		left: 9.9%;
 	}
 
 	#u9688
 	{
-		width: 227px;
+		width: 192px;
 		margin-top: 78px;
 	}
 
-	#u9458
+	#u9099,#u9458
 	{
 		width: 335px;
-		height: 547px;
+		height: 459px;
 	}
 
 	#u9760-13
@@ -2685,14 +2677,14 @@ body
 
 	#u6953
 	{
-		margin-top: 108px;
+		margin-top: 60px;
 		width: 59.47%;
 		margin-left: 20.27%;
 	}
 
 	#u6953:hover
 	{
-		margin-top: 108px;
+		margin-top: 60px;
 		width: 59.47%;
 		margin-left: 20.27%;
 	}
@@ -2707,7 +2699,7 @@ body
 	#u6937-4-bw
 	{
 		min-height: 41px;
-		margin-top: 198px;
+		margin-top: 60px;
 	}
 
 	#u6946
@@ -2762,7 +2754,7 @@ body
 	#u6935
 	{
 		position: fixed;
-		bottom: 17px;
+		bottom: 16px;
 		right: 20px;
 		width: 13.34%;
 		max-width: 50px;
