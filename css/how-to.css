@@ -1,7 +1,7 @@
 .version.how_to /* version checker */
 {
-	color: #0000FD;
-	background-color: #EF801F;
+	color: #00000B;
+	background-color: #1D2C37;
 }
 
 .js body
@@ -1040,14 +1040,14 @@ body
 
 	#u9412-4
 	{
-		min-height: 34px;
+		min-height: 32px;
 		width: 24.52%;
 		left: 75.49%;
 	}
 
 	#u9412-4.MuseLinkActive
 	{
-		min-height: 34px;
+		min-height: 32px;
 		width: 24.52%;
 		margin-left: 0%;
 	}
@@ -1403,7 +1403,7 @@ body
 	{
 		max-width: 480px;
 		padding-top: 20px;
-		padding-bottom: 30px;
+		padding-bottom: 39px;
 	}
 
 	#pu608
@@ -1455,8 +1455,8 @@ body
 	#u9411-4
 	{
 		min-height: 31px;
-		font-size: 20px;
-		line-height: 24px;
+		font-size: 18px;
+		line-height: 22px;
 		left: 20px;
 		width: 15.42%;
 	}
@@ -1471,7 +1471,7 @@ body
 	#u9412-4
 	{
 		min-height: 31px;
-		left: 104px;
+		left: 94px;
 		width: 33.55%;
 	}
 
