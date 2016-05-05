@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462478674044">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462478739337">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="3950357780" ref="index"/>
@@ -84,7 +84,7 @@
     <file name="macbook@1x155x99.png" crc="4212959613" seo="true" ref="index"/>
     <file name="macbook@1x158x102.png" crc="4289075628" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3874962658" seo="true" mt="1462478651689" redirect="true"/>
+  <file name="index.html" crc="4273368401" seo="true" mt="1462478729084" redirect="true"/>
   <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
   <file name="how-to.html" crc="469005142" seo="true" mt="1462477665434" redirect="true"/>
 </manifest>
