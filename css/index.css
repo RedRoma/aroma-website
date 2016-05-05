@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #8F6D9D;
+	color: #0000FC;
+	background-color: #760550;
 }
 
 .js body
@@ -386,7 +386,7 @@
 #u9760-13
 {
 	font-family: ubuntu-condensed, sans-serif;
-	text-align: justify;
+	text-align: left;
 	background-color: transparent;
 	z-index: 78;
 	margin-right: -10000px;
