@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E6;
-	background-color: #0E5D8D;
+	color: #0000EB;
+	background-color: #75AD14;
 }
 
 .js body
@@ -2598,7 +2598,7 @@ body
 	{
 		width: 335px;
 		height: 274px;
-		padding-bottom: 270px;
+		padding-bottom: 273px;
 	}
 
 	#u9104-4
@@ -2617,7 +2617,7 @@ body
 	{
 		width: 335px;
 		height: 455px;
-		padding-bottom: 89px;
+		padding-bottom: 92px;
 	}
 
 	#u9619-4
@@ -2626,24 +2626,25 @@ body
 		font-size: 18px;
 		line-height: 25px;
 		width: 99.11%;
+		margin-left: 0.6%;
 	}
 
 	#u9521
 	{
 		width: 227px;
-		margin-left: 12.84%;
+		margin-left: 16.12%;
 	}
 
 	#u9099
 	{
 		width: 335px;
-		height: 534px;
-		padding-bottom: 10px;
+		height: 522px;
+		padding-bottom: 25px;
 	}
 
 	#u9745-4
 	{
-		min-height: 60px;
+		min-height: 40px;
 		font-size: 18px;
 		line-height: 25px;
 		font-weight: 500;
@@ -2652,26 +2653,26 @@ body
 
 	#pu9634
 	{
-		width: 65.68%;
-		margin-left: 17.32%;
+		width: 67.77%;
+		margin-left: 16.12%;
 	}
 
 	#u9634
 	{
 		width: 154px;
-		left: 15%;
+		left: 15.86%;
 	}
 
 	#u9688
 	{
-		width: 220px;
-		margin-top: 83px;
+		width: 227px;
+		margin-top: 78px;
 	}
 
 	#u9458
 	{
 		width: 335px;
-		height: 544px;
+		height: 547px;
 	}
 
 	#u9760-13
