@@ -1,4 +1,4 @@
-	#pu9118:active #u9118,#pu9116:hover #u9116,#pu9118:hover #u9118,#pu9116:active #u9116,#pu9437:active #u9437,#pu9437:hover #u9437,#pu9114:active #u9114,#pu9114:hover #u9114
+	#pu9116:hover #u9116,#pu9118:hover #u9118,#pu9116:active #u9116,#pu9437:active #u9437,#pu9118:active #u9118,#pu9437:hover #u9437,#pu9114:hover #u9114,#pu9114:active #u9114
 	{
 		width: 44px;
 		height: 44px;
@@ -50,8 +50,8 @@
 	#u6933-4
 	{
 		min-height: 91px;
-		font-size: 72px;
 		line-height: 86px;
+		font-size: 72px;
 		margin-top: 3px;
 		width: 61.22%;
 	}
@@ -76,8 +76,8 @@
 	#u9388-4
 	{
 		min-height: 37px;
-		font-size: 18px;
 		line-height: 22px;
+		font-size: 18px;
 		position: relative;
 		margin-right: -10000px;
 		width: 18.67%;
@@ -95,9 +95,9 @@
 	#u6960-4
 	{
 		min-height: 63px;
+		line-height: 29px;
 		text-align: left;
 		font-size: 24px;
-		line-height: 29px;
 		margin-top: 6px;
 		width: 95.52%;
 	}
@@ -275,8 +275,8 @@
 
 	#u9104-4
 	{
-		font-size: 24px;
 		line-height: 34px;
+		font-size: 24px;
 		width: 27.51%;
 		margin-left: 36.31%;
 	}
@@ -298,8 +298,8 @@
 	#u9619-4
 	{
 		min-height: 60px;
-		font-size: 24px;
 		line-height: 34px;
+		font-size: 24px;
 		width: 27.51%;
 		margin-left: 36.31%;
 	}
@@ -319,8 +319,8 @@
 	#u9745-4
 	{
 		min-height: 60px;
-		font-size: 24px;
 		line-height: 34px;
+		font-size: 24px;
 		font-weight: 500;
 		margin-right: -10000px;
 		width: 49.46%;
@@ -336,11 +336,6 @@
 		left: -144px;
 	}
 
-	#page_position_content,#u6939_img,#pu6933-4,#u9354_img,#u9521_img,#u9634_img,#u9688_img
-	{
-		width: 100%;
-	}
-
 	#u9099,#u9458
 	{
 		width: 920px;
@@ -350,8 +345,8 @@
 	#u9760-13
 	{
 		min-height: 399px;
-		font-size: 28px;
 		line-height: 39px;
+		font-size: 28px;
 		width: 74.68%;
 		margin-left: 12.67%;
 		left: 0px;
@@ -374,8 +369,8 @@
 	#u6937-4
 	{
 		min-height: 22px;
-		font-size: 12px;
 		line-height: 14px;
+		font-size: 12px;
 	}
 
 	#u6937-4-bw
@@ -399,8 +394,8 @@
 	#u6958-5
 	{
 		min-height: 60px;
-		font-size: 50px;
 		line-height: 60px;
+		font-size: 50px;
 		margin-top: 26px;
 		width: 58.86%;
 		margin-left: 20.58%;
@@ -435,6 +430,12 @@
 
 	#u6935
 	{
+		z-index: 93;
+		-webkit-transition-duration: 0s;
+		-webkit-transition-delay: 0s;
+		transition-duration: 0s;
+		transition-delay: 0s;
+		background-image: url("../images/blank.gif");
 		position: fixed;
 		bottom: 9px;
 		right: 20px;
@@ -444,9 +445,23 @@
 
 	#u6935:hover
 	{
-		margin-left: 0px;
-		margin-top: 0px;
+		-webkit-transition-duration: 0.4s;
+		-webkit-transition-delay: 0s;
+		-webkit-transition-timing-function: ease;
+		transition-duration: 0.4s;
+		transition-delay: 0s;
+		transition-timing-function: ease;
+		opacity: 0.5;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+		filter: alpha(opacity=50);
+		min-height: 0px;
 		width: 10.42%;
 		max-width: 100px;
+		margin: 0px;
+	}
+
+	#page_position_content,#u6939_img,#pu6933-4,#u9354_img,#u9521_img,#u9634_img,#u9688_img,#u6935_img
+	{
+		width: 100%;
 	}
 

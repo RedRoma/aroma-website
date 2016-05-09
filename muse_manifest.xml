@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462479849803">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462809141686">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="399753426" ref="index"/>
-    <file name="nomq_index.css" crc="51049731" ref="index"/>
+    <file name="index.css" crc="3834168895" ref="index"/>
+    <file name="nomq_index.css" crc="4048404097" ref="index"/>
     <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
-    <file name="how-to.css" crc="186461239" ref="how-to"/>
-    <file name="nomq_how-to.css" crc="4103308915" ref="how-to"/>
+    <file name="how-to.css" crc="3857328904" ref="how-to"/>
+    <file name="nomq_how-to.css" crc="391669602" ref="how-to"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -48,6 +48,7 @@
     <file name="musewpslideshow.js" crc="394033048" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
     <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
   </folder>
   <folder name="images">
     <file name="screen 1.png" crc="4196458525" seo="true" ref="how-to"/>
@@ -65,7 +66,7 @@
     <file name="screen 2250x343.png" crc="3939979043" seo="true" ref="how-to"/>
     <file name="u18535.png" crc="308864502" ref="how-to"/>
     <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" ref="index:how-to"/>
-    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="514650753" ref="how-to:index"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="514650753" ref="how-to"/>
     <file name="iphone 6s.png" crc="372332648" seo="true" ref="how-to"/>
     <file name="screen 1272x373.png" crc="356472172" seo="true" ref="how-to"/>
     <file name="screen 2272x373.png" crc="536669484" seo="true" ref="how-to"/>
@@ -74,7 +75,7 @@
     <file name="how-to-favicon.ico" crc="3884509916" ref="how-to"/>
     <file name="macbook@1x.png" crc="4046160252" seo="true" ref="index"/>
     <file name="55 device_img_1@1x.png" crc="3999102846" seo="true" ref="index"/>
-    <file name="55 device_img_3@1x.png" crc="480075802" seo="true" ref="index"/>
+    <file name="55 device_img_3@1x.png" crc="94521026" seo="true" ref="index"/>
     <file name="macbook@1x354x227.png" crc="3970115720" seo="true" ref="index"/>
     <file name="macbook@1x280x180.png" crc="157673940" seo="true" ref="index"/>
     <file name="macbook@1x441x283.png" crc="210643016" seo="true" ref="index"/>
@@ -82,9 +83,12 @@
     <file name="macbook@1x335x215.png" crc="4290147042" seo="true" ref="index"/>
     <file name="macbook@1x155x99.png" crc="4212959613" seo="true" ref="index"/>
     <file name="macbook@1x158x102.png" crc="4289075628" seo="true" ref="index"/>
-    <file name="aroma-favicon.ico" crc="3884509916" ref="index"/>
+    <file name="home-favicon.ico" crc="3884509916" ref="index"/>
+    <file name="macbook@1x374x240.png" crc="3899300769" seo="true" ref="index"/>
+    <file name="u6935.png" crc="192674019" ref="index"/>
+    <file name="u6935-r.png" crc="3981430385" ref="index"/>
   </folder>
-  <file name="index.html" crc="4205747400" seo="true" mt="1462479835558" redirect="true"/>
+  <file name="index.html" crc="39435918" seo="true" mt="1462809121952" redirect="true"/>
   <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
-  <file name="how-to.html" crc="3759979892" seo="true" mt="1462479457060" redirect="true"/>
+  <file name="how-to.html" crc="469005142" seo="true" mt="1462477665434" redirect="true"/>
 </manifest>
