@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1462809141686">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1463759819090">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3834168895" ref="index"/>
-    <file name="nomq_index.css" crc="4048404097" ref="index"/>
+    <file name="index.css" crc="33303119" ref="index"/>
+    <file name="nomq_index.css" crc="4117539848" ref="index"/>
     <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
     <file name="how-to.css" crc="3857328904" ref="how-to"/>
@@ -66,7 +66,7 @@
     <file name="screen 2250x343.png" crc="3939979043" seo="true" ref="how-to"/>
     <file name="u18535.png" crc="308864502" ref="how-to"/>
     <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" ref="index:how-to"/>
-    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="514650753" ref="how-to"/>
+    <file name="download_on_the_app_store_badge_us-uk_135x40_poster_.png" crc="514650753" ref="how-to:index"/>
     <file name="iphone 6s.png" crc="372332648" seo="true" ref="how-to"/>
     <file name="screen 1272x373.png" crc="356472172" seo="true" ref="how-to"/>
     <file name="screen 2272x373.png" crc="536669484" seo="true" ref="how-to"/>
@@ -88,7 +88,7 @@
     <file name="u6935.png" crc="192674019" ref="index"/>
     <file name="u6935-r.png" crc="3981430385" ref="index"/>
   </folder>
-  <file name="index.html" crc="39435918" seo="true" mt="1462809121952" redirect="true"/>
+  <file name="index.html" crc="35516539" seo="true" mt="1463759789590" redirect="true"/>
   <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
   <file name="how-to.html" crc="469005142" seo="true" mt="1462477665434" redirect="true"/>
 </manifest>
