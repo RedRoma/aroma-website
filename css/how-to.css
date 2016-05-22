@@ -1,7 +1,7 @@
 .version.how_to /* version checker */
 {
-	color: #0000F8;
-	background-color: #933FF0;
+	color: #00001A;
+	background-color: #5D713C;
 }
 
 .js body
@@ -470,7 +470,7 @@
 	margin-right: 0px;
 }
 
-#u5732_img,#u726_img,#u749_img,#u2369_img
+#u5732_img,#u726_img,#u749_img,#pu1629,#u2369_img
 {
 	width: 100%;
 }
@@ -767,12 +767,6 @@ body
 		left: 56.15%;
 	}
 
-	#pu1652-4
-	{
-		margin-top: 234px;
-		width: 100%;
-	}
-
 	#u1652-4
 	{
 		min-height: 53px;
@@ -780,9 +774,14 @@ body
 		font-size: 30px;
 		font-family: '__Ubuntu_5';
 		font-weight: 500;
-		margin-right: -10000px;
+		margin-top: 185px;
 		width: 29.07%;
-		left: 35.53%;
+		margin-left: 35.53%;
+	}
+
+	#pu1629
+	{
+		margin-top: 30px;
 	}
 
 	#u1629
@@ -790,7 +789,6 @@ body
 		width: 741px;
 		position: relative;
 		margin-right: -10000px;
-		margin-top: 89px;
 		margin-left: 50%;
 		left: -370px;
 	}
@@ -801,7 +799,7 @@ body
 		min-height: 332px;
 		line-height: 29px;
 		font-size: 24px;
-		margin-top: 121px;
+		margin-top: 32px;
 		margin-left: 50%;
 		left: -266px;
 	}
@@ -1195,7 +1193,6 @@ body
 	#pu1629
 	{
 		margin-top: 22px;
-		width: 100%;
 	}
 
 	#u1629
@@ -1604,7 +1601,6 @@ body
 	#pu1629
 	{
 		margin-top: 40px;
-		width: 100%;
 	}
 
 	#u1629
@@ -2024,7 +2020,6 @@ body
 	#pu1629
 	{
 		margin-top: 25px;
-		width: 100%;
 	}
 
 	#u1629
@@ -2454,7 +2449,6 @@ body
 	#pu1629
 	{
 		margin-top: 11px;
-		width: 100%;
 	}
 
 	#u1629
