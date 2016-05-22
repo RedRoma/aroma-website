@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1463897689953">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1463937766339">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="508390279" ref="index"/>
+    <file name="index.css" crc="3840257787" ref="index"/>
     <file name="nomq_index.css" crc="4048404097" ref="index"/>
     <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
-    <file name="how-to.css" crc="3899016371" ref="how-to"/>
-    <file name="nomq_how-to.css" crc="391669602" ref="how-to"/>
+    <file name="how-to.css" crc="4170399728" ref="how-to"/>
+    <file name="nomq_how-to.css" crc="3837561306" ref="how-to"/>
   </folder>
   <folder name="fonts">
     <file name="marcellus-sc-v4-latin-regular.woff" crc="162654055"/>
@@ -88,7 +88,7 @@
     <file name="u6935.png" crc="192674019" ref="index"/>
     <file name="u6935-r.png" crc="3981430385" ref="index"/>
   </folder>
-  <file name="index.html" crc="508297870" seo="true" mt="1463897663095" redirect="true"/>
+  <file name="index.html" crc="106219728" seo="true" mt="1463937554760" redirect="true"/>
   <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
-  <file name="how-to.html" crc="35905545" seo="true" mt="1463897677274" redirect="true"/>
+  <file name="how-to.html" crc="3823348467" seo="true" mt="1463937743973" redirect="true"/>
 </manifest>
