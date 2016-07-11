@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1468219313193">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1468219582937">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3976848777" ref="index"/>
+    <file name="index.css" crc="4147833434" ref="index"/>
     <file name="nomq_index.css" crc="12590971" ref="index"/>
     <file name="privacy-policy.css" crc="170478885" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="443382896" ref="privacy-policy"/>
@@ -91,7 +91,7 @@
     <file name="black-linen_poster_u13018.png" crc="3842466614" ref="how-to"/>
     <file name="black-linen_poster_u12989.png" crc="3842466614" ref="index"/>
   </folder>
-  <file name="index.html" crc="4028757468" seo="true" mt="1468219306662" redirect="true"/>
+  <file name="index.html" crc="65419576" seo="true" mt="1468219559028" redirect="true"/>
   <file name="privacy-policy.html" crc="61372301" seo="true" mt="1462472441680" redirect="true"/>
   <file name="how-to.html" crc="204176868" seo="true" mt="1464381622205" redirect="true"/>
 </manifest>
