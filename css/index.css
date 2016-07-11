@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #3AEA5A;
+	color: #0000FB;
+	background-color: #E8F7E3;
 }
 
 .js body
@@ -1968,8 +1968,8 @@ body
 	{
 		min-height: 63px;
 		text-align: center;
-		font-size: 18px;
-		line-height: 22px;
+		font-size: 21px;
+		line-height: 25px;
 		margin-top: 20px;
 		width: 88.13%;
 		margin-left: 5.94%;
