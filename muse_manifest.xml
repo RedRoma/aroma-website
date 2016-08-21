@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1471743977867">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1471744306487">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="privacy-policy.css" crc="4001934430" ref="privacy-policy"/>
-    <file name="nomq_privacy-policy.css" crc="3940120891" ref="privacy-policy"/>
+    <file name="privacy-policy.css" crc="4058085490" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="4028656661" ref="privacy-policy"/>
     <file name="index.css" crc="420965746" ref="index"/>
     <file name="nomq_index.css" crc="3813195548" ref="index"/>
     <file name="how-to.css" crc="300066728" ref="how-to"/>
@@ -45,6 +45,9 @@
     <file name="cinzel-regular.woff" crc="4168119946"/>
     <file name="cinzel-regular.eot" crc="505467403"/>
     <file name="cinzel-regular.svg" crc="384052360"/>
+    <file name="ubuntu regular.woff" crc="132063581"/>
+    <file name="ubuntu regular.eot" crc="17662577"/>
+    <file name="ubuntu regular.svg" crc="3897725280"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="how-to:privacy-policy:index"/>
@@ -84,7 +87,7 @@
     <file name="screen 2250x343.png" crc="3902225008" seo="true" ref="how-to"/>
     <file name="u18534.png" crc="4287902837" ref="how-to"/>
     <file name="u18535.png" crc="483871329" ref="how-to"/>
-    <file name="privacy-policy-favicon.ico" crc="3884509916" ref="privacy-policy"/>
+    <file name="privacy-policy-favicon.ico" crc="4213126960" ref="privacy-policy"/>
     <file name="home-favicon.ico" crc="4213126960" ref="index"/>
     <file name="macbook@1x.png" crc="4046160252" seo="true" ref="index"/>
     <file name="55 device_img_1@1x.png" crc="3999102846" seo="true" ref="index"/>
@@ -102,6 +105,6 @@
     <file name="black-linen_poster_u12989.png" crc="3999477971" ref="index"/>
   </folder>
   <file name="how-to.html" crc="4179287446" seo="true" mt="1470459686125" redirect="true"/>
-  <file name="privacy-policy.html" crc="3868520502" seo="true" mt="1470459686125" redirect="true"/>
+  <file name="privacy-policy.html" crc="276102405" seo="true" mt="1471744279790" redirect="true"/>
   <file name="index.html" crc="273297736" seo="true" mt="1471743900860" redirect="true"/>
 </manifest>
