@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1471744306487">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1471744747181">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="privacy-policy.css" crc="4058085490" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="4028656661" ref="privacy-policy"/>
     <file name="index.css" crc="420965746" ref="index"/>
     <file name="nomq_index.css" crc="3813195548" ref="index"/>
-    <file name="how-to.css" crc="300066728" ref="how-to"/>
-    <file name="nomq_how-to.css" crc="3918836157" ref="how-to"/>
+    <file name="how-to.css" crc="451236798" ref="how-to"/>
+    <file name="nomq_how-to.css" crc="337150729" ref="how-to"/>
   </folder>
   <folder name="fonts">
     <file name="ubuntu-v9-latin-500.woff" crc="226814883"/>
@@ -65,7 +65,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="how-to-favicon.ico" crc="3884509916" ref="how-to"/>
+    <file name="how-to-favicon.ico" crc="4213126960" ref="how-to"/>
     <file name="logo@2x.png" crc="467184893" seo="true" ref="how-to:index"/>
     <file name="blank.gif" crc="4208392903" ref="how-to:privacy-policy:index"/>
     <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" seo="true" ref="how-to:index"/>
@@ -104,7 +104,7 @@
     <file name="macbook@1x158x102.png" crc="219034069" seo="true" ref="index"/>
     <file name="black-linen_poster_u12989.png" crc="3999477971" ref="index"/>
   </folder>
-  <file name="how-to.html" crc="4179287446" seo="true" mt="1470459686125" redirect="true"/>
+  <file name="how-to.html" crc="314165961" seo="true" mt="1471744719287" redirect="true"/>
   <file name="privacy-policy.html" crc="276102405" seo="true" mt="1471744279790" redirect="true"/>
   <file name="index.html" crc="273297736" seo="true" mt="1471743900860" redirect="true"/>
 </manifest>
