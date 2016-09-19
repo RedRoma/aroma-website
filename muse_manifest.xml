@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1471745041523">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="aroma.redroma.tech" resolutions="1x" timestamp="1474268633441">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="privacy-policy.css" crc="4058085490" ref="privacy-policy"/>
     <file name="nomq_privacy-policy.css" crc="4028656661" ref="privacy-policy"/>
     <file name="index.css" crc="313471919" ref="index"/>
     <file name="nomq_index.css" crc="3813195548" ref="index"/>
-    <file name="how-to.css" crc="44395992" ref="how-to"/>
+    <file name="how-to.css" crc="4127358397" ref="how-to"/>
     <file name="nomq_how-to.css" crc="337150729" ref="how-to"/>
   </folder>
   <folder name="fonts">
@@ -104,7 +104,7 @@
     <file name="aroma-favicon.ico" crc="4213126960" ref="index"/>
     <file name="black-linen_poster_u12989.png" crc="3999477971" ref="index"/>
   </folder>
-  <file name="how-to.html" crc="470330641" seo="true" mt="1471744951955" redirect="true"/>
+  <file name="how-to.html" crc="4184626471" seo="true" mt="1474268600738" redirect="true"/>
   <file name="privacy-policy.html" crc="276102405" seo="true" mt="1471744279790" redirect="true"/>
   <file name="index.html" crc="92100866" seo="true" mt="1471745027228" redirect="true"/>
 </manifest>
